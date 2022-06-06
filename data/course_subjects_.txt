@@ -1,0 +1,1932 @@
+ACTSC	221	Intro Fin Math (Non-Spec)		UW	  	
+ACTSC	231	Intro Financial Mathematics		UW	  	
+ACTSC	232	Life Contingencies 1		UW	  	
+ACTSC	331	Life Contingencies 2		UW	  	
+ACTSC	363	Casualty & Hlth Ins Math 1		UW	  	
+ACTSC	372	Investment Sci & Corporate Fin		UW	  	
+ACTSC	431	Casualty & Hlth Ins Math 2		UW	  	
+ACTSC	432	Prop & Casualty Ins: Pricing		UW	  	
+ACTSC	445	Quantitative Ent Risk Mgmt		UW	  	Held with ACTSC 845.
+ACTSC	446	Math of Financial Markets		UW	  	Held with ACTSC 846
+ 
+AE	100	Concepts Studio		UW	  	
+AE	101	History of Built Environment		UW	  	
+AE	104	Mechanics 1		UW	  	
+AE	115	Linear Algebra		UW	  	
+AE	205	Solid Mechanics 2		UW	  	
+AE	223	Diff Equations & Balance Laws		UW	  	
+AE	225	Env Building Systems Studio		UW	  	
+AE	265	Structure & Props of Materials		UW	  	
+AE	299	Seminar		UW	  	
+AE	572	Building Energy Analysis		UW	  	
+ 
+AFM	101	Intro Financial Accounting		UW	  	
+AFM	101	Intro Financial Accounting		ONLN	  	
+AFM	102	Intro Managerial Accounting		ONLN	  	
+AFM	111	Prof Pathways & Prob-Solving		BLND	  	1A SAF students only
+AFM	112	Analytic Methods for Bus 1		BLND	  	1A SAF students only
+AFM	123	Accounting Info for Managers		UW	  	
+AFM	131	Intro North American Bus		UW	  	
+AFM	131	Intro North American Bus		ONLN	  	
+AFM	132	Intro Business Stages		UW	  	1A SAF students only
+AFM	191	Foundations: Finance Reporting		UW	  	1A SAF students only
+AFM	205	Intro Financial Services		UW	  	
+AFM	206	Intro Tax		BLND	  	
+AFM	207	Intro Performance Analytics		UW	  	
+AFM	208	Intro Assurance		UW	  	
+AFM	212	Financial Analysis & Planning		BLND	  	
+AFM	231	Business Law		ONLN	  	Reserved for Non-SAF students
+AFM	272	Global Capital Markets		UW	  	
+AFM	273	Fin Instruments & Cap Markets		BLND	  	
+AFM	276	Financial Statement Analysis		UW	  	
+AFM	291	Intmd Financial Accounting 1		UW	  	
+AFM	321	Personal Financial Planning		UW	  	
+AFM	323	Quantitative Foundations Fin		UW	  	
+AFM	326	Student Venture Fund: Analyst		UW	  	Application process - inquire with Advisor
+AFM	328	Investm Mgmt: Jr Analyst		UW	  	Application process - inquire with Advisor
+AFM	329	Investm Mgmt: Sr Analyst		UW	  	Application process - inquire with Advisor
+AFM	333	International Business		UW	  	Cross-listed and held with ARBUS 301
+AFM	341	Accounting Information Systems		UW	  	
+AFM	346	Predictive Analytics Applic		BLND	  	
+AFM	347	Cybersecurity		UW	  	
+AFM	373	Corporate Fin: Cases & Applic		UW	  	
+AFM	382	Cost Management Systems		UW	  	
+AFM	391	Intmd Financial Accounting 2		UW	  	
+AFM	401	Accounting Theory		UW	  	
+AFM	415	Special Topics	Internal Audit	UW	  	
+AFM	424	Equity Investments		UW	  	
+AFM	425	Fixed Income Securities		UW	  	
+AFM	426	Student Venture Fund: Assoc		UW	  	Application process - inquire with Advisor
+AFM	428	Investm Mgmt: Jr Portfolio Mgr		UW	  	Application process - inquire with Advisor
+AFM	429	Investm Mgmt: Sr Portfolio Mgr		UW	  	Application process - inquire with Advisor
+AFM	433	Business Strategy		UW	  	
+AFM	444	Business Analytics Prj Mgmt		UW	  	
+AFM	451	Audit Strategy		UW	  	
+AFM	462	Topics: Taxation		UW	  	
+AFM	470	Fin Mgmt: High Growth Comp		UW	  	Application process - inquire with Instructor
+AFM	476	Corporate Fin Decision Making		UW	  	
+AFM	477	Mergers & Acquisitions		UW	  	
+AFM	478	International Financial Mgmt		UW	  	
+AFM	479	Cases & Applic in Finance 2		ONLN	  	
+AFM	480	Intro Org Behaviour		UW	  	
+AFM	482	Perform Measure & Org Control		UW	  	
+AFM	485	Approaches to Measuring Value		UW	  	
+AFM	491	Advanced Financial Accounting		UW	  	
+ 
+AMATH	231	Calculus 4		UW	  	
+AMATH	250	Intro Differential Equations		UW	  	
+AMATH	250	Intro Differential Equations		ONLN	  	
+AMATH	251	Intro Diff Equations (Adv)		UW	  	
+AMATH	271	Intro Theoretical Mechanics		UW	  	
+AMATH	331	Applied Real Analysis		UW	  	cross-listed with PMATH 331
+AMATH	342	Comp Methods: Diff Eq		UW	  	
+AMATH	350	Diff Eq (Bus & Econ)		UW	  	
+AMATH	351	Ordinary Diff Equations 2		UW	  	
+AMATH	390	Mathematics & Music		UW	  	
+AMATH	442	Comp Methods: Partial Diff Eq		UW	  	cross-listed with AMATH 642
+AMATH	456	Calculus of Variations		UW	  	cross-listed with AMATH 656
+AMATH	463	Fluid Mechanics		UW	  	cross-listed with AMATH 663
+AMATH	473	Quantum Theory 2		UW	  	cross-listed with AMATH 673 and PHYS 454
+ 
+ANTH	100	Intro Anthropology		UW	  	
+ANTH	100	Intro Anthropology		ONLN	  	
+ANTH	106	Technologies of Being Human		BLND	  	
+ANTH	201	Intro Archaeology		UW	  	Held with CLAS 221
+ANTH	202	Social & Cultural Anthropology		UW	  	
+ANTH	204	Biological Anthropology		UW	  	
+ANTH	233	Inuit Cultures		UW	  	
+ANTH	348	Anthropology of Tourism		UW	  	
+ANTH	355	Human Osteology		UW	  	
+ANTH	377	Dental Anthropology		UW	  	
+ANTH	391	Reading Course		UW	  	Department Consent Required
+ANTH	415	Archaeologies of Landscape		BLND	  	
+ANTH	430	Science as Pract & Culture		ONLN	  	
+ANTH	489	Special Topics	Language and Social Life	UW	  	
+ANTH	499A	Honours Essay		UW	  	Department Consent Required
+ANTH	499A	Honours Essay		UW	  	
+ANTH	499A	Honours Essay		UW	  	
+ANTH	499B	Honours Essay		UW	  	Department Consent Required
+ 
+APPLS	205R	Second Language Acquisition		REN	  	
+APPLS	301	Language, Culture & Identity		UW	  	
+ 
+ARABIC	101R	Intro Arabic 1		ONLNR	  	Students must complete the ARABIC Placement Application https://uwaterloo.ca/renison/current-students/printable-forms
+ARABIC	201R	Intermediate Arabic 1		ONLNR	  	
+ 
+ARBUS	101	Intro North American Bus		UW	  	Held with AFM 131
+ARBUS	200	Entrepreneurship		UW	  	
+ARBUS	202	Professional & Business Ethics		UW	  	Held with PHIL 215
+ARBUS	202	Professional & Business Ethics		ONLN	  	Held with PHIL 215
+ARBUS	300	Practical Business Skills		UW	  	
+ARBUS	301	International Business		UW	  	Held with AFM 333
+ARBUS	302	Principles of Marketing		UW	  	Held with MGMT 244
+ARBUS	302	Principles of Marketing		ONLN	  	Held with MGMT 244
+ARBUS	303	Marketing Strategy		UW	  	Held with MGMT 345
+ARBUS	400	Strategy & Program Integration		BLND	  	
+ 
+ARCH	110	Visual & Digital Media 1		UW	  	CAMBRIDGE CAMPUS
+ARCH	120	Archit Ideas & Communications		UW	  	
+ARCH	142	Intro Cultural History		UW	  	CAMBRIDGE CAMPUS
+ARCH	172	Building Construction 1		UW	  	CAMBRIDGE CAMPUS
+ARCH	192	Design Studio		UW	  	CAMBRIDGE CAMPUS
+ARCH	212	Digital Fabrication		UW	  	CAMBRIDGE CAMPUS
+ARCH	246	Cultural Encounters 600-1600		UW	  	CAMBRIDGE CAMPUS
+ARCH	260	Principles of Structures		UW	  	CAMBRIDGE CAMPUS
+ARCH	292	Design Studio		UW	  	CAMBRIDGE CAMPUS
+ARCH	346	Competitions in Architecture		UW	  	CAMBRIDGE CAMPUS
+ARCH	384	Architectural Research		UW	  	
+ARCH	393	Option Design Studio		UW	  	3B Students Only
+ARCH	428	Rome & the Campagna		OFF	  	
+ARCH	442	Contemporary Archit Theory		UW	  	CAMBRIDGE CAMPUS
+ARCH	446	Italian Urban History (Rome)		OFF	  	
+ARCH	449	Dev Modern Italian Archit		OFF	  	
+ARCH	484	Architectural Research		UW	  	
+ARCH	492	Design Studio		OFF	  	
+ARCH	510	Topics: Visual & Digital Media		UW	  	
+ARCH	520	Topics: Urbanism & Landscape		UW	  	
+ARCH	540	Topics: Archit Hist & Theory	Approaches to Arch. & Urbanism	UW	  	
+ARCH	540	Topics: Archit Hist & Theory	Twelve Architectures	UW	  	
+ARCH	540	Topics: Archit Hist & Theory		UW	  	
+ARCH	570	Topics: Building Tech & Env		UW	  	Third year Architecture Students or higher
+ 
+ARTS	122	Quest for Meaning in Mod World		STP	  	
+ARTS	280	Statistics for Arts Students		UW	  	
+ 
+ASL	101R	American Sign Language 1		REN	  	
+ASL	102R	American Sign Language 2		REN	  	
+ 
+AVIA	100	Intro Aviation		UW	  	
+AVIA	101	Prof Pilot Program Course 1		UW	  	
+AVIA	102	Prof Pilot Program Course 2		UW	  	
+AVIA	203	Prof Pilot Program Course 3		UW	  	
+AVIA	205	Prof Pilot Program Course 5		UW	  	
+AVIA	306	Prof Pilot Program Course 6		UW	  	
+AVIA	310	Human Factors in Aviation		UW	  	
+ 
+BET	100	Entrepreneurial Pract Found		ONLN	  	
+BET	210	Business Tech & Infrastructure		ONLN	  	
+BET	300	Venture Creation Foundations		UW	  	This course requires a further application and interview process. For more details please refer to: https://uwaterloo.ca/conrad-business-entrepreneurship-technology/undergraduate-students/undergraduate-courses
+BET	320	Entrepreneurial Strategy		UW	  	
+BET	340	Entrepreneurial Plan & Execute		UW	  	
+BET	350	Customer Experience Design		ONLN	  	
+BET	420	Entrepreneurship Social Impact		BLND	  	
+BET	430	Sales Fundamentals		UW	  	
+BET	450	Leadership		UW	  	
+BET	460	Business Negotiations		UW	  	
+BET	580	Consulting		UW	  	
+ 
+BIOL	110	Intro Zoology		UW	  	
+BIOL	130	Intro Cell Biology		UW	  	
+BIOL	130L	Cell Biology Lab		UW	  	
+BIOL	150	Organismal & Evolutionary Ecol		UW	  	
+BIOL	201	Human Anatomy		UW	  	
+BIOL	225	Plants & Civilization		UW	  	
+BIOL	239	Genetics		ONLN	  	
+BIOL	240	Fundamentals of Microbiology		UW	  	
+BIOL	240L	Microbiology Lab		UW	  	
+BIOL	266	Intro Computational Biology		UW	  	
+BIOL	273	Human Physiol Principles 1		UW	  	
+BIOL	303	Intro Dev Biol & Embryology		UW	  	
+BIOL	308	Principles of Molecular Biol		UW	  	
+BIOL	309	Analytical Meth Molecular Biol		UW	  	
+BIOL	310	Invertebrate Zoology		UW	  	
+BIOL	321	Plant Anatomy & Morphogenesis		UW	  	
+BIOL	325	Flowering Plants		UW	  	
+BIOL	335L	Molecular Biology Techniques		UW	  	
+BIOL	342	Molecular Biotechnology 1		UW	  	
+BIOL	345	Microorganisms in Foods		UW	  	If you are interested in registering for 'Microorganisms in Food', BIOL 345, please be aware that this course requires periodic but substantial follow-up times in the lab. You will need at least 15 minutes to 1 hour of free time, 2 -3 times a week. If you cannot provide this time in your schedule, please contact Dr. Duxbury.
+BIOL	349	Synthetic Biol Project Design		UW	  	
+BIOL	350	Ecosystem Ecology		UW	  	
+BIOL	354	Environmental Toxicology 1		UW	  	
+BIOL	359	Evolution 1: Mechanisms		UW	  	
+BIOL	370	Animal Physiol: Env Aspects		UW	  	
+BIOL	433	Plant Biotechnology		UW	  	
+BIOL	434	Human Molecular Genetics		UW	  	
+BIOL	439	Env & Natural Products Biochem		UW	  	
+BIOL	443	Fermentation Biotechnology		UW	  	
+BIOL	444	Bacterial Pathogenesis		UW	  	If you are interested in enrolling in Biol 444 'Bacterial Pathogenesis' please note this course requires periodic, but substantial follow-up times outside scheduled lab time. You will need, at times, at least 1 hr of available free time, two to three times a week during the 4 hr window of 9am - 12pm. If you cannot provide this time, then please consider a different course.
+BIOL	447	Environmental Microbiology		UW	  	
+BIOL	448	Microbial Physiol & Biochem		UW	  	
+BIOL	451	Advanced Ecology & Evolution		UW	  	
+BIOL	452	Quantitative Fisheries Biol		UW	  	
+BIOL	455	Ecol Risk Assessment & Mgmt		UW	  	
+BIOL	456	Population Biology		UW	  	
+BIOL	458	Quantitative Ecology		UW	  	
+BIOL	462	Applied Wetland Science		UW	  	
+BIOL	469	Genomics		UW	  	
+BIOL	472	Cell Biology of Human Disease		UW	  	
+BIOL	479	Population Genetics & Evol		UW	  	
+ 
+BLKST	102	Intro Black Arts/Culture/Lit		UW	  	
+BLKST	103	Combating Racisms		UW	  	
+BLKST	202	Black and Free		UW	  	
+BLKST	240	Black Diasporic 1740-1900		UW	  	
+ 
+BME	101	Communications: Written & Oral		UW	  	
+BME	101L	Communications: Visualization		UW	  	
+BME	121	Digital Computation		UW	  	
+BME	161	Intro Biomedical Design		UW	  	
+BME	181	Physics 1: Statistics		UW	  	
+BME	182	Physics 2: Dynamics		UW	  	
+BME	201	Seminar		UW	  	
+BME	281	Mechanics of Deformable Solids		UW	  	
+BME	281L	Deformable Solid Mechanics Lab		UW	  	
+BME	282	Materials Science		UW	  	
+BME	285	Engineering Biology		UW	  	
+BME	285L	Engineering Biology Lab		UW	  	
+BME	302	Seminar		UW	  	
+BME	356	Control Systems		UW	  	
+BME	356L	Control Systems Lab		UW	  	
+BME	362	Design Workshop 1		UW	  	
+BME	364	Eng Biomedical Economics		UW	  	
+BME	384	Biofluids & Mass Transfer		UW	  	
+BME	386	The Physics of Medical Imaging		UW	  	
+BME	399	Directed Research Project		UW	  	
+BME	401	Seminar		UW	  	
+BME	411	Optimization & Num Methods		UW	  	
+BME	461	Design Workshop 2		UW	  	
+BME	499	Elective Research Project		UW	  	
+BME	550	Sports Engineering		UW	  	
+BME	581	Ultrasound Medicine & Biology		UW	  	
+BME	588	Topics: Biomechanics	Intro Mech of Biomed Materials	UW	  	
+ 
+BUS	111W	Intro to Bus Organization(WLU)		WLU	  	
+BUS	127W	Intro to Financial Acc (WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	127W	Intro to Financial Acc (WLU)		ONLNL	  	
+BUS	223W	Fundamentals of Finance(WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	231W	Business Law (WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	231W	Business Law (WLU)		ONLNL	  	
+BUS	247W	Managerial Accounting (WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	247W	Managerial Accounting (WLU)		ONLNL	  	
+BUS	283W	Financial Management 1 (WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	288W	Organizat'nal Behaviour 1(WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	352W	Intro to Marketing (WLU)		WLU	  	
+BUS	353W	Intro Risk Mang't & Ins. (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	354W	Human Resources Managemen(WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	357W	Taxation (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	387W	Intermediate Accounting 1(WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	393W	Financial Management 2 (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	397W	Intermediate Account 2 (WLU)		WLU	  	
+BUS	400W	Adv Equity Analysis 1 (WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	403W	Entrepreneurial Finance(WLU)		WLU	  	
+BUS	405W	Procurem't & Supply Mgt (WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	408W	Recruitment and Selection(WLU)		WLU	  	
+BUS	412W	Services Marketing Mgt (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	413W	Pers. Fin. Plan. & Manage(WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	415W	Intro Mgmt Info Systems (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	422W	Marketing Research (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	423W	Options, Futures & Swaps(WLU)		WLU	  	
+BUS	425W	Business Analytics (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	431W	Mgmt Consulting Practicum (WLU		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	432W	Consumer Behaviour (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	435W	Supply Chain Management(WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	443W	International Fin'l Mgt (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	451W	Legal Env: Bus in Canada (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	452W	Marketing Strategy (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	459W	Marketing & Soc. Networks(WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	460W	Laurier Start-Up Fund (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	461AW	Comp. Case Analysis (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	461ZW	Ethics in Mgmt&Strat Dec (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	462W	Business-to-Bus Marketing(WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	466W	Advanced Taxation (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	467W	Advanced Management Acct (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	470W	Brand Communication (WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	472W	Marketing Communications(WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	473W	Investment Management (WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	474W	Training & Development (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	477W	Auditing (WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	479W	High-Tech Marketing (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	480RW	Independent Research (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	480W	Independent Research (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	481W	Business Policy 1 (WLU)		WLU	  	
+BUS	482W	Sales Management (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	486W	Data Analytics and Acc Inf Sys		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	487W	Advanced Accounting (WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+BUS	490AW	Major Project (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	490W	Major Project (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	491W	Business Policy 2 (WLU)		WLU	  	
+BUS	492NW	Digital Marketing (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	492W	Seminar in Marketing (WLU)	Digital Marketing	WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+BUS	495RW	Data Vis and Comm Bus (WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+ 
+CDNST	101	Intro Canadian Studies		ONLNP	  	
+CDNST	201	Indigenous Experience Canada		STP	  	
+ 
+CFM	101	Intro Fin Markets & Analytics		UW	  	
+ 
+CHE	100	Chemical Eng Concepts 1		UW	  	
+CHE	102	Chemistry for Engineers		UW	  	
+CHE	120	Comp Literacy & Programming		UW	  	
+CHE	180	Design Studio 1		UW	  	
+CHE	200	Equilibrium Stage Operations		UW	  	
+CHE	201	Seminar		UW	  	
+CHE	202	Seminar		UW	  	
+CHE	211	Fluid Mechanics		UW	  	
+CHE	220	Process Data Analysis		UW	  	
+CHE	230	Physical Chemistry 1		UW	  	
+CHE	231	Physical Chemistry 2		UW	  	
+CHE	241	Materials Sci & Eng		UW	  	
+CHE	290	Chemical Engineering Lab 1		UW	  	
+CHE	291	Chemical Engineering Lab 2		UW	  	
+CHE	298	Directed Research Project		UW	  	Department Consent Required
+CHE	299	Directed Research Project		UW	  	Department Consent Required
+CHE	302	Seminar		UW	  	
+CHE	313	Applic of Heat & Mass Transfer		UW	  	
+CHE	331	Electrochemical Engineering		UW	  	
+CHE	341	Intro Process Control		UW	  	
+CHE	361	Bioprocess Engineering		UW	  	
+CHE	383	Design Workshop		UW	  	
+CHE	399	Directed Research Project		UW	  	Department Consent Required
+CHE	401	Seminar		UW	  	
+CHE	425	Strategies for Process Improve		UW	  	
+CHE	480	Process Analysis & Design		UW	  	
+CHE	482	Group Design Project		UW	  	
+CHE	490	Chemical Engineering Lab 4		UW	  	
+CHE	498	Directed Research Project		UW	  	Department Consent Required
+CHE	499	Elective Research Project		UW	  	Pre-req: one of ChE 398, 399 or 498
+CHE	514	Petroleum Production		UW	  	
+CHE	541	Intro Polymer Sci & Properties		UW	  	
+CHE	565	Synthetic Biol Project Design		UW	  	Instructor Consent Required Cross-listed with Biol 349
+CHE	571	Industrial Ecology		UW	  	
+ 
+CHEM	120	General Chemistry 1		UW	  	
+CHEM	120L	General Chemistry Lab 1		UW	  	
+CHEM	121	Phys & Chem Props of Matter		UW	  	
+CHEM	121L	Chemical Reaction Lab 1		UW	  	Attendance at first lab is mandatory.
+CHEM	140	Intro Scientific Calculations		ONLN	  	
+CHEM	200	Intro Lab Techniques		UW	  	2A Biochemistry, Chemistry or Medicinal Chemistry students only.
+CHEM	209	Intro Spectroscopy & Structure		UW	  	
+CHEM	220	Intro Analytical Chemistry		UW	  	
+CHEM	220L	Quantitative Chem Anal Lab		UW	  	
+CHEM	240	Math Methods for Chemistry		UW	  	
+CHEM	250L	Physical Chemistry Lab 1		UW	  	
+CHEM	262	Organic Chemistry (Eng)		UW	  	
+CHEM	262L	Organic Chemistry Lab (Eng)		UW	  	
+CHEM	264	Organic Chemistry 1		UW	  	
+CHEM	266	Basic Organic Chemistry 1		UW	  	
+CHEM	266L	Organic Chemistry Lab		UW	  	
+CHEM	267	Basic Organic Chemistry 2		ONLN	  	
+CHEM	310	Transition Metal & Inorg Mat		UW	  	
+CHEM	310L	Inorganic Chemistry Lab 2		UW	  	
+CHEM	323	Analytical Instrumentation		UW	  	
+CHEM	331	Fundamentals of Metabolism 1		UW	  	
+CHEM	333	Metabolism 1		UW	  	
+CHEM	335L	Advanced Biochemistry Lab		UW	  	
+CHEM	350L	Physical Chemistry Lab 2		UW	  	
+CHEM	356	Intro Quantum Mechanics		UW	  	
+CHEM	370	Intro Polymer Science		UW	  	
+CHEM	382L	Advanced Organic Synthesis Lab		UW	  	
+CHEM	383	Medicinal Chemistry		UW	  	
+CHEM	392A	Research Project 1		UW	  	Exchange students only
+CHEM	392B	Research Project 2		UW	  	Exchange students only
+CHEM	400	Special Topics	Inorganic Solid State Material	UW	  	Course requires the prerequisite CHEM 313 or MNS 221
+CHEM	400	Special Topics	Polymer Synth & Self-Assembly	UW	  	
+CHEM	400	Special Topics	Electrochem Enrgy Conv & Storg	UW	  	
+CHEM	400	Special Topics	Mniatrzn & Nanotech-Elect Meas	UW	  	
+CHEM	400	Special Topics	Org Electronic Materials Synth	UW	  	Course requires the prerequisite CHEM 265
+CHEM	404	Physicochem Aspects Nat Waters		UW	  	
+CHEM	430	Topics: Biochemistry	Prot: Strctre,Functn,Predn&Des	UW	  	
+CHEM	432	Metabolism 2		UW	  	
+CHEM	464	Organic Chem Spectroscopy		UW	  	
+CHEM	481	Rational Drug Design		UW	  	
+CHEM	494A	Research Project		UW	  	Please contact Chemistry faculty directly to arrange a supervisor for your project.
+CHEM	494B	Research Project		UW	  	
+CHEM	495	Advanced Research Project		UW	  	Exchange students only
+ 
+CHINA	101R	First-Year Chinese 1		REN	  	Before enrolling in CHINA 101R students must complete the CHINA Placement Application: https://uwaterloo.ca/renison/current-students/printable-forms
+CHINA	102R	First-Year Chinese 2		REN	  	Successful completion of CHINA 101R or students must complete the CHINA Placement Application before enrolling in CHINA 102R: https://uwaterloo.ca/renison/current-students/printable-forms
+CHINA	120R	Advanced First-Year Chinese		REN	  	Students must complete the CHINA Placement Application before enrolling in CHINA 120R: https://uwaterloo.ca/renison/current-students/printable-forms
+CHINA	201R	Second-Year Chinese 1		REN	  	
+CHINA	202R	Second-Year Chinese 2		REN	  	
+CHINA	301R	Third-Year Chinese 1		REN	  	
+ 
+CI	100	Cultural Identities Today		BLND	  	
+CI	300	Cultural Identities: Theories		UW	  	
+ 
+CIVE	100	Civil Engineering Concepts		UW	  	
+CIVE	104	Mechanics 1		UW	  	
+CIVE	115	Linear Algebra		UW	  	
+CIVE	204	Solid Mechanics 1		UW	  	
+CIVE	221	Advanced Calculus		UW	  	
+CIVE	224	Probability & Statistics		UW	  	
+CIVE	241	Transport: Principles & Applic		UW	  	
+CIVE	265	Material Struct & Props		UW	  	
+CIVE	298	Seminar		UW	  	
+CIVE	306	Mechanics of Solids 3		UW	  	
+CIVE	310	Intro Structural Design		UW	  	
+CIVE	343	Traffic Sim Model & Appli		UW	  	
+CIVE	354	Geotechnical Engineering 2		UW	  	
+CIVE	375	Env Eng Principles		UW	  	
+CIVE	399	Seminar		UW	  	
+CIVE	495	Topics: Design Intensive	Structural Design in Timber	UW	  	
+ 
+CLAS	100	Intro Classical Studies		UW	  	
+CLAS	104	Classical Mythology		ONLN	  	
+CLAS	105	Intro Medieval Studies		UW	  	
+CLAS	123	Classical Studies Pop Culture		UW	  	
+CLAS	201	Love, Life & Death in Greece		UW	  	
+CLAS	210	History of Ancient Law		STJ	  	Cross listed with HIST 210/LS 235
+CLAS	221	Intro Archaeology		UW	  	Cross listed with ANTH 201
+CLAS	232	Studies in Ancient Roman Lit		UW	  	
+CLAS	242	Roman Art & Architecture		UW	  	
+CLAS	251	Greek History		UW	  	
+CLAS	261	Great Works: Ancient & Medvl		UW	  	
+CLAS	384	Sci & Tech: Anc Greece & Rome		UW	  	
+CLAS	486	Senior Seminar	Delos: A Mysterious Island	UW	  	
+ 
+CMW	201	Worship Practicum 1		CGC	  	
+CMW	202	Worship Practicum 2		CGC	  	
+CMW	364	Worship & its Music		CGC	  	Held with MUSIC 364 Held with RS 358 Held with TS 653
+ 
+CO	227	Intro Optimization (Non-Spec)		UW	  	
+CO	250	Intro Optimization		UW	  	
+CO	255	Intro Optimization (Adv)		UW	  	
+CO	330	Combinatorial Enumeration		UW	  	
+CO	342	Intro Graph Theory		UW	  	
+CO	351	Network Flow Theory		UW	  	
+CO	367	Nonlinear Optimization		UW	  	
+CO	370	Deterministic OR Models		UW	  	
+CO	372	Portfolio Optimization Models		UW	  	
+CO	431	Symmetric Functions		UW	  	
+CO	439	Topics: Combinatorics	Combinatorial Commutative Alg	UW	  	
+CO	442	Graph Theory		UW	  	
+CO	450	Combinatorial Optimization		UW	  	
+CO	456	Intro Game Theory		UW	  	
+CO	466	Continuous Optimization		UW	  	
+CO	485	Public-Key Cryptography Math		UW	  	
+CO	487	Applied Cryptography		UW	  	
+ 
+COMM	101	Intro Financial Markets		UW	  	
+COMM	421	Financial Statement Analysis		UW	  	
+COMM	431	Project Management		UW	  	
+COMM	433	Income Tax (Finance Students)		UW	  	Not open to Mathematics/CPA students
+ 
+CROAT	101	Elementary Croatian 1		UW	  	CROAT 101 is not open to students with native, near-native or similar advanced ability. Students who already have knowledge of the Croatian language please contact the Germanic & Slavic Studies Undergraduate Office (gssugrad@uwaterloo.ca) for enrollment advice.
+ 
+CS	100	Intro Computing Through Applic		ONLN	  	
+CS	105	Intro Computer Programming 1		ONLN	  	
+CS	114	Computing Principles (Sci)		UW	  	
+CS	115	Intro Computer Science 1		UW	  	
+CS	116	Intro Computer Science 2		ONLN	  	
+CS	135	Designing Functional Programs		UW	  	
+CS	136	Elem Algo Dsgn & Data Abstrac		UW	  	
+CS	136L	Tools & Tech for Software Dev		UW	  	
+CS	137	Programming Principles		UW	  	
+CS	145	Designing Func Programs (Adv)		UW	  	
+CS	234	Data Types & Structures		ONLN	  	
+CS	240	Data Structures & Data Mgmt		UW	  	
+CS	241	Found of Sequential Programs		UW	  	
+CS	241E	Found Sequential Prog (Enrich)		UW	  	
+CS	245	Logic & Computation		UW	  	
+CS	245E	Logic & Computation (Enrich)		UW	  	
+CS	246	Obj-Oriented Soft Dev		UW	  	
+CS	246E	Obj-Oriented Soft Dev (Enrich)		UW	  	
+CS	251	Computer Organization & Design		UW	  	
+CS	330	Management Information Systems		UW	  	
+CS	335	Comp Meth in Bus & Fin		UW	  	
+CS	338	Comp Applic in Bus Databases		UW	  	
+CS	341	Algorithms		UW	  	
+CS	343	Concurrent & Parallel Program		UW	  	
+CS	346	Application Development		UW	  	
+CS	348	Intro Database Management		UW	  	
+CS	349	User Interfaces		UW	  	
+CS	350	Operating Systems		UW	  	
+CS	360	Intro Theory of Computing		UW	  	
+CS	370	Numerical Computation		UW	  	
+CS	430	Applications Software Eng		UW	  	
+CS	431	Data-Intense Distrib Analytics		UW	  	
+CS	445	Software Req Specif & Analysis		UW	  	
+CS	448	Database Sys Implementation		UW	  	
+CS	449	Human-Computer Interaction		UW	  	
+CS	451	Data-Intense Distrib Computing		UW	  	
+CS	452	Real-time Programming		UW	  	The F22 offering of CS 452/652 will use a new compute platform and, as such, be not as well-curated as normal offerings. Assignments and their evaluation will be less mature and course staff will have less experience with the new platform. While the course is quite open-ended in normal times, these circumstances will result in a more experimental course experience. Therefore, discretion is strongly advised when enrolling for F22.
+CS	454	Distributed Systems		UW	  	
+CS	456	Computer Networks		UW	  	
+CS	458	Computer Security & Privacy		UW	  	
+CS	466	Algorithm Design & Analysis		UW	  	
+CS	480	Intro Machine Learning		UW	  	
+CS	484	Computational Vision		UW	  	
+CS	485	Machine Learning Foundations		UW	  	
+CS	486	Intro Artificial Intelligence		UW	  	
+CS	488	Intro Computer Graphics		UW	  	
+CS	492	Social Implications of Comp		UW	  	
+ 
+DAC	201	Design: Digital Img & Interact		UW	  	
+DAC	203	Design: Digital Sound		BLND	  	
+DAC	204	Intro Game Design		UW	  	
+DAC	302	Digital Storytelling		UW	  	
+DAC	305	Design & User Exp of Games		UW	  	
+ 
+DUTCH	101	Elementary Dutch 1		UW	  	DUTCH 101 is not open to students with native, near-native or similar advanced ability. Students who already have knowledge of the Dutch language please contact the Germanic & Slavic Studies Undergraduate Office (gssugrad@uwaterloo.ca) for enrollment advice.
+ 
+EARTH	121	Intro Earth Sciences		ONLN	  	
+EARTH	121L	Intro Earth Sciences Lab		UW	  	
+EARTH	123	Introductory Hydrology		UW	  	
+EARTH	123	Introductory Hydrology		OFF	  	
+EARTH	223	Field Methods in Hydrology		UW	  	
+EARTH	231	Mineralogy		UW	  	
+EARTH	235	Stratigraphy: Earth's History		UW	  	
+EARTH	260	Intro Applied Geophysics		UW	  	
+EARTH	321	Intro Geomicrobiology		UW	  	
+EARTH	331	Volcanology & Igneous Petrol		UW	  	
+EARTH	342	Geomorphology & GIS Applic		UW	  	
+EARTH	421	Advanced Geochemistry		UW	  	
+EARTH	436A	Thesis Proposal		UW	  	Student must have supervisor arranged prior to the start of term
+EARTH	436B	Honours Thesis		UW	  	
+EARTH	440	Quaternary Geology		UW	  	
+EARTH	444	Applied Wetland Science		UW	  	
+EARTH	458	Physical Hydrogeology		UW	  	
+EARTH	458L	Hydrogeology Field Methods		UW	  	
+EARTH	461	Near-Surface Geophysics		UW	  	
+ 
+EASIA	100R	Intro East Asia		REN	  	
+EASIA	100R	Intro East Asia		ONLNR	  	
+EASIA	120R	Monsters in Japan Pop Culture		REN	  	Cross listed with RS 123.
+EASIA	202R	Chinese Culture & Society		REN	  	Formerly CHINA 272R.
+EASIA	203R	Japanese Culture & Society		REN	  	Formerly JAPAN 272R.
+EASIA	204R	Korean Culture & Society		REN	  	Formerly KOREA 272R
+EASIA	360R	Pre-modern Chinese Literature		REN	  	
+ 
+ECE	101A	Work-term Reflections		UW	  	
+ECE	101B	Work-term Reflections		UW	  	
+ECE	101C	Work-term Reflections		UW	  	
+ECE	101D	Work-term Reflections		UW	  	
+ECE	101E	Work-term Reflections		UW	  	
+ECE	102	Information Session		UW	  	
+ECE	105	Classical Mechanics		UW	  	
+ECE	109	Materials Chemistry for Eng		UW	  	
+ECE	150	Fundamentals of Programming		UW	  	
+ECE	190	Eng Profession & Practice		UW	  	
+ECE	198	Project Studio		UW	  	
+ECE	203	Probability Theory & Stats 1		UW	  	
+ECE	204	Numerical Methods		UW	  	
+ECE	204	Numerical Methods		UW	  	
+ECE	205	Adv Calculus 1 (ECE)		UW	  	Only enroll into this course to clear a failure.
+ECE	206	Adv Calculus 2 (Elec Eng)		UW	  	
+ECE	207	Signals & Systems		UW	  	
+ECE	208	Discrete Math & Logic 2		UW	  	
+ECE	222	Digital Computers		UW	  	
+ECE	224	Embedded Microprocessor Sys		UW	  	Only enroll into this course if you are retaking the course to clear a failure.
+ECE	231	Semiconductor Phys & Devices		UW	  	
+ECE	240	Electronic Circuits 1		UW	  	
+ECE	250	Algorithms & Data Structures		UW	  	
+ECE	252	Systems Program & Concurrency		UW	  	
+ECE	260	Electromech Energy Conversion		UW	  	
+ECE	298	Instrument & Prototyping Lab		UW	  	
+ECE	302	Information Session		UW	  	
+ECE	307	Probability Theory & Stats 2		UW	  	
+ECE	313	Digital Signal Processing		UW	  	
+ECE	320	Computer Architecture		UW	  	
+ECE	331	Electronic Devices		UW	  	
+ECE	351	Compilers		UW	  	
+ECE	356	Database Systems		UW	  	
+ECE	358	Computer Networks		UW	  	
+ECE	360	Power Systems & Smart Grids		UW	  	
+ECE	373	Radio Freq & Microwave Circuit		UW	  	
+ECE	401	Information Session		UW	  	
+ECE	402	Information Session		UW	  	
+ECE	451	Software Req Specif & Analysis		UW	  	
+ECE	457A	Co-op & Adaptive Algorithms		UW	  	
+ECE	484	Digital Control Applications		UW	  	
+ECE	498A	Engineering Design Project		UW	  	
+ECE	498B	Engineering Design Project		UW	  	
+ 
+ECON	101	Intro Microeconomics		UW	  	
+ECON	101	Intro Microeconomics		ONLN	  	
+ECON	102	Intro Macroeconomics		UW	  	
+ECON	102	Intro Macroeconomics		ONLN	  	
+ECON	120W	Intro to Microeconomics (WLU)		WLU	  	Open for pre-enrollment to BBA/BMath & BBA/BCS Double Degree students only.
+ECON	140W	Intro to Macroeconomics (WLU)		ONLNL	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+ECON	201	Microecon Theory: Bus & Policy		UW	  	
+ECON	201	Microecon Theory: Bus & Policy		ONLN	  	
+ECON	206	Money & Banking 1		UW	  	
+ECON	206	Money & Banking 1		ONLN	  	
+ECON	207	Economic Growth & Dev 1		UW	  	
+ECON	211	Intro Mathematical Econ		UW	  	
+ECON	212	Intro Game Theory		UW	  	
+ECON	221	Statistics for Economists		UW	  	
+ECON	223W	Econ Cdn Banking&Fin Sys (WLU)		WLU	  	
+ECON	223W	Econ Cdn Banking&Fin Sys (WLU)		ONLNL	  	
+ECON	231	Intro International Econ		UW	  	
+ECON	238W	Environmental Economics (WLU)		ONLNL	  	
+ECON	239W	Intro Internat'l Trade (WLU)		ONLNL	  	
+ECON	241	Intro Public Economics		ONLN	  	
+ECON	247W	Hist Devl the Intnt Econ (WLU)		WLU	  	
+ECON	249W	International Finance (WLU)		ONLNL	  	
+ECON	250W	Int Macroec Anlys for Mgt(WLU)		WLU	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+ECON	254	Economics of Sport		ONLN	  	
+ECON	256	Intro Health Economics		UW	  	
+ECON	260W	Int Microec Anal for Mgt (WLU)		ONLNL	  	Open for pre-enrollment to BBA/Bmath & BBA/BCS Double Degree students only
+ECON	262	History of Economic Thought		UW	  	
+ECON	290	Choice in Competitive Markets		UW	  	
+ECON	290W	Int Macroeconomics I (WLU)		WLU	  	
+ECON	306	Macroeconomics		UW	  	
+ECON	310GW	Economics of China (WLU)		ONLNL	  	
+ECON	310IW	Market Design (WLU)		WLU	  	
+ECON	322	Econometric Analysis 1		UW	  	
+ECON	323	Econometric Analysis 2		UW	  	
+ECON	351	Labour Economics		UW	  	
+ECON	361	Cost-Benefit Analysis & Eval		ONLN	  	
+ECON	366	Gender & Economics		UW	  	
+ECON	371	Business Finance 1		UW	  	
+ECON	372	Business Finance 2		UW	  	
+ECON	391	Equilibrium: Market Economies		UW	  	
+ECON	392	Strategic Sit & Welfare Econ		UW	  	
+ECON	393	Market Failures		UW	  	
+ECON	406	Money & Banking 2		UW	  	
+ECON	408	Business Cycles		UW	  	
+ECON	409	Workers, Jobs & Wages		UW	  	
+ECON	412	Topics: Game Theory	Negotiations	UW	  	
+ECON	423	Time Series Econometrics		UW	  	
+ECON	424	Machine Learning in Economics		UW	  	
+ECON	436	International Trade		UW	  	
+ECON	441	Public Economics		UW	  	
+ECON	443	Advanced Public Economics		UW	  	
+ECON	451	Law & Economics		UW	  	
+ECON	457	Environmental Economics		UW	  	
+ECON	472	Senior Honours Essay		UW	  	Senior Honours Essay course. Must be an Honours Economics or Honours Mathematical Economics student. Department Consent required.
+ECON	484	Special Topics	Water Economics	UW	  	
+ECON	491	Advanced Microeconomics		UW	  	
+ 
+EMLS	101R	Oral Comm: Academic Purposes		REN	  	
+EMLS	101R	Oral Comm: Academic Purposes		BLNDR	  	
+EMLS	102R	Clear Comm in Engl Writing		REN	  	
+EMLS	102R	Clear Comm in Engl Writing		BLNDR	  	
+EMLS	103R	Effective Engl Pronunciation		BLNDR	  	
+EMLS	129R	Written Academic English		REN	  	
+EMLS	129R	Written Academic English		ONLNR	  	
+ 
+ENBUS	102	Intro Environment & Business		UW	  	
+ENBUS	202	Env Management Systems		UW	  	
+ENBUS	203	Green Entrepreneurship		UW	  	
+ENBUS	204	Principles of Industrial Ecol		UW	  	
+ENBUS	306	Research Design		UW	  	
+ENBUS	402A	Env & Bus Project A		UW	  	
+ENBUS	403A	Sustainable Entrepreneur Prj		BLND	  	
+ENBUS	406	Industrial Ecol: Sust Material		UW	  	
+ENBUS	407	Corp Sust Acct & Reporting		UW	  	
+ 
+ENGL	100A	Fiction		UW	  	
+ENGL	100B	Poetry		STJ	  	
+ENGL	101A	Intro Literary Studies		STJ	  	
+ENGL	101A	Intro Literary Studies		ONLN	  	
+ENGL	101B	Intro Rhetorical Studies		UW	  	
+ENGL	101B	Intro Rhetorical Studies		ONLN	  	
+ENGL	104	Rhetoric in Popular Culture		UW	  	
+ENGL	108A	The Superhero		UW	  	
+ENGL	108D	Digital Lives		UW	  	
+ENGL	108D	Digital Lives		ONLN	  	
+ENGL	108F	The Rebel		STJ	  	
+ENGL	108G	Horror		UW	  	
+ENGL	108P	Popular Potter		UW	  	
+ENGL	108P	Popular Potter		ONLN	  	
+ENGL	108T	Tolkien: From Book to Film		UW	  	
+ENGL	109	Intro Academic Writing		UW	  	
+ENGL	109	Intro Academic Writing		ONLN	  	
+ENGL	132R	Modern Arab & Muslim Drama		REN	  	
+ENGL	140R	The Use of English		REN	  	
+ENGL	190	Shakespeare		ONLN	  	
+ENGL	191	Eng Comm (AE/CIVE/ENVE/GEOE)		UW	  	
+ENGL	200A	English Literatures 1		UW	  	
+ENGL	200A	English Literatures 1		STJ	  	
+ENGL	200A	English Literatures 1		ONLNJ	  	
+ENGL	202A	The Bible & Literature 1		ONLN	  	
+ENGL	203	Design: Digital Img & Interact		UW	  	Held with DAC 201
+ENGL	208A	Forms of Fantasy		STJ	  	
+ENGL	208M	Travel Literature		STJ	  	
+ENGL	210C	Genres of Creative Writing		UW	  	
+ENGL	210F	Business Communication Genres		ONLN	  	
+ENGL	210H	Arts Writing		STJ	  	
+ENGL	232	Graphic Narrative		STJ	  	
+ENGL	251	Literary Theory & Criticism		STJ	  	
+ENGL	291	Global Literatures		UW	  	
+ENGL	292	Rhetorical Theory & Criticism		UW	  	
+ENGL	293	Intro Digital Media Studies		UW	  	
+ENGL	294	Intro Critical Game Studies		UW	  	
+ENGL	295	Social Media		UW	  	
+ENGL	304	Design: Digital Sound		BLND	  	Held with DAC 203
+ENGL	306A	Intro Linguistics		UW	  	
+ENGL	306A	Intro Linguistics		ONLN	  	
+ENGL	306F	Intro Semiotics		UW	  	
+ENGL	308	Race & Resistance		ONLN	  	
+ENGL	309A	Rhetoric: Classical to Enlight		ONLN	  	
+ENGL	309C	Contemporary Rhetoric		UW	  	
+ENGL	310C	Non-Chaucerian Mid English Lit		UW	  	
+ENGL	325	Austen		STJ	  	
+ENGL	332	Topics: Creative Writing	Writers on Creative Writing	STJ	  	Topic: Writers on Creative Writing
+ENGL	335	Creative Writing 1		UW	  	
+ENGL	335	Creative Writing 1		STJ	  	
+ENGL	336	Creative Writing 2		UW	  	
+ENGL	347	American Lit: Since 1945		STJ	  	
+ENGL	363	Shakespeare 2		UW	  	
+ENGL	378	Prof Comm (Stats & Actsc)		STJ	  	For students in Statistics and Actuarial Science only.
+ENGL	392B	Visual Rhetoric		UW	  	
+ENGL	430B	Romantic Period Lit 2		STJ	  	
+ENGL	471	Adapting Literary Works		UW	  	
+ENGL	485	Topics: Lit Romantic to Modern	American Pulp Magazines	UW	  	
+ 
+ENTR	200W	The Entrprneurial Method (WLU)		WLU	  	
+ENTR	300W	Business Model Creation(WLU)		WLU	  	
+ 
+ENVE	100	Concepts: Env & Geol Eng		UW	  	
+ENVE	115	Linear Algebra		UW	  	
+ENVE	225	Environmental Modelling		UW	  	
+ENVE	277	Air Quality Engineering		UW	  	
+ENVE	279	Energy & Environment		UW	  	
+ENVE	299	Seminar		UW	  	
+ENVE	382	Hydrol & Open Channel Flow		UW	  	
+ENVE	400	Design Project 1		UW	  	
+ENVE	498	Seminar		UW	  	
+ 
+ENVS	105	Env Sustainability & Ethics		UW	  	
+ENVS	178	Env Appli: Data Mgmt & Stats		UW	  	
+ENVS	195	Intro Environmental Studies		UW	  	
+ENVS	200	Field Ecology		UW	  	
+ENVS	201	Intro Canadian Env Law		UW	  	
+ENVS	205	Sustainability: Future We Want		ONLN	  	
+ENVS	274	Env Special Topics	Ent & UN's Sust Dev Goals	UW	  	
+ENVS	278	Applied Stats for Env Research		BLND	  	
+ENVS	310	Future Cities		UW	  	
+ENVS	395	Study Abroad		OFF	  	
+ENVS	444	Parks & Natural Areas Mgmt		UW	  	
+ 
+ERS	100	Env/Resources/Sust Foundations		UW	  	ERS core Course
+ERS	201	Env Policy, Politics & Gov		UW	  	ER core Course
+ERS	202	Natural Resources Ecology		UW	  	ERS core Course
+ERS	215	Env & Sust Assessment 1		ONLN	  	ERS core Course
+ERS	270	Intro Sustain Agroecosystems		UW	  	
+ERS	275	Special Readings	The Future of our Oceans	UW	  	The Future of Our Oceans/T. Swerdfager
+ERS	294	Sacred Earth: Relig & Ecol		STJ	  	Heldwith RS 295: The Sacred Earth
+ERS	300	Social Ecol Systems Analysis		UW	  	ERS core Course
+ERS	301	Sust Thought, Pract & Prospect		UW	  	ERS core Course
+ERS	315	Env & Sust Assessment 2		UW	  	2nd core course in EA Diploma
+ERS	316	Urban Water & Wastewater Sys		UW	  	
+ERS	318	Photography for Sustainability		BLND	  	
+ERS	335	Restoration Ecology		UW	  	Restoration Ecology/Steve Murphy
+ERS	375	Readings: Env/Resources/Sust	Stopping the 6th Extinction	UW	  	Stopping the 6th Extinction/D.Kraus and S.Parker
+ERS	375	Readings: Env/Resources/Sust	Parliament/Cabinet/Bureaucracy	UW	  	Parliament/Cabinet/Bureaucracy/T. Swerdfager
+ERS	400	Sust: Soc-Ecol Approaches		UW	  	ERS core course
+ERS	403A	Senior Honours Thesis		UW	  	ERS Thesis Part A
+ERS	403B	Senior Honours Thesis		UW	  	
+ERS	454	Parks & Protected Areas		UW	  	Parks and Protected Areas/D. Stewart
+ERS	460	Sustainable Food: Region Study		UW	  	
+ERS	462	Global Food & Agric Politics		UW	  	cancelled - 1229 - added back on as ERS 460
+ERS	484	Soil Ecosystem Dynamics		UW	  	Heldwith GEOG 404.
+ 
+FINE	100	Studio Fundamentals		UW	  	This course is primarily for students who are considering a Fine Arts studio academic plan. It includes a significant component of mandatory life drawing from the nude model. Spaces will be reserved for Year 1 Arts Students
+FINE	102	World Cinema & Visual Culture		UW	  	Cross-listed with VCULT 100
+FINE	130	Intro Digital Imaging		ONLN	  	
+FINE	150	Appreciation & Expression		UW	  	This course is designed for students who are not in the Fine Arts program but are interested in developing their appreciation of visual arts through studio practice. Course content varies each term and typically includes drawing, painting, sculpture, and print media. Note: This course cannot be used to fulfill Fine Arts degree requirements.
+FINE	201	Topics: Studio (Non-Fine Arts)		UW	  	Stratford Campus
+FINE	204	Topics: Studio Practice	Photography	UW	  	
+FINE	209	Modern Art: 1940-1970		UW	  	
+FINE	228	Design & Imaging		UW	  	
+FINE	230	Printmaking		UW	  	
+FINE	242	Roman Art & Architecture		UW	  	
+FINE	243	Topics: Experiential Learning		OFF	  	
+FINE	252	Religion in Popular Film		ONLNR	  	
+FINE	271	Ceramics: Materials Practice		UW	  	
+FINE	282	Canadian Art: 17th C. to 1940		UW	  	
+FINE	309	Adv Topics: 2D Media		UW	  	
+FINE	312	Adv Topics: 3D Media		UW	  	
+FINE	315	Adv Topics: Expanded Media		UW	  	
+FINE	343	Topics: Experiential Learning		OFF	  	
+FINE	407	Honours Concept & Research		UW	  	Must be a 4A Studio Practice student
+FINE	472	Honours Thesis 1		UW	  	
+FINE	474	Honours Studio Practicum 1		UW	  	
+ 
+FR	101	Beginner French		ONLN	  	
+FR	151	Basic French 1		UW	  	
+FR	151	Basic French 1		ONLN	  	
+FR	152	Basic French 2		UW	  	
+FR	152	Basic French 2		ONLN	  	
+FR	192A	French Language 1: Module 1		UW	  	
+FR	192A	French Language 1: Module 1		STJ	  	
+FR	192A	French Language 1: Module 1		ONLN	  	
+FR	192B	French Language 1: Module 2		UW	  	
+FR	192B	French Language 1: Module 2		ONLN	  	
+FR	203	Intro French Phonetics		UW	  	
+FR	250	Intermediate Spoken French		UW	  	
+FR	250	Intermediate Spoken French		ONLN	  	
+FR	251	French Language 2: Module 1		STJ	  	
+FR	251	French Language 2: Module 1		ONLN	  	
+FR	252	French Language 2: Module 2		UW	  	
+FR	252	French Language 2: Module 2		ONLN	  	
+FR	255	Business French 1		ONLN	  	
+FR	276	Intro Lit: Quebec & French CND		UW	  	
+FR	296	Culture & Lit: Origins to 1715		UW	  	
+FR	297	Culture & Lit: 1715 to Present		UW	  	
+FR	303	Intro Linguistics		ONLN	  	
+FR	332	French Lit: 17th Century		ONLN	  	
+FR	351	French Language 3		ONLN	  	
+FR	403	Topics: Linguistics		UW	  	
+FR	471	Francophone Lit in Canada		UW	  	
+ 
+GBDA	201	Digital Media Project 1		UW	  	Open to GBDA students only. STRATFORD CAMPUS
+GBDA	203	Intro Digital Culture		UW	  	Open to GBDA Students only. STRATFORD CAMPUS
+GBDA	210	Intro User Experience Design		UW	  	Open to GBDA Students only. STRATFORD CAMPUS
+GBDA	228	Digital Imaging Online Applic		UW	  	
+GBDA	228	Digital Imaging Online Applic		BLND	  	
+GBDA	301	Global Digital Project 1		UW	  	open to GBDA students only. Stratford Campus.
+GBDA	303	Data & Society		UW	  	Open to GBDA students only. Stratford Campus.
+GBDA	305	Global Development & Business		UW	  	Open to GBDA Students only. STRATFORD CAMPUS
+GBDA	310	Adv User Exp Dsgn & Research		UW	  	
+GBDA	311	Intro Business Financials		UW	  	
+GBDA	410	User Experience Research		UW	  	
+GBDA	412	Topics: Digital Cultures		UW	  	
+GBDA	412	Topics: Digital Cultures		ONLN	  	
+GBDA	414	Topics: Interaction Design		UW	  	
+GBDA	465	Study Abroad		UW	  	Department Consent required
+ 
+GENE	119	Problems Seminar		UW	  	
+GENE	302	Special Directed Studies		UW	  	
+GENE	303	International Studies in Eng		UW	  	
+GENE	315	Directed Studies: Non-Tech		UW	  	
+GENE	395	Engineering Study Abroad		OFF	  	
+GENE	401	Special Directed Studies		UW	  	
+GENE	403	Interdiscipl Design Project 1		UW	  	
+GENE	404	Interdiscipl Design Project 2		ONLN	  	
+GENE	415	Directed Studies: Non-Tech		UW	  	
+GENE	501	Directed Studies: Visiting Stu		UW	  	
+ 
+GEOE	100	Concepts: Env & Geol Eng		UW	  	
+GEOE	115	Linear Algebra		UW	  	
+GEOE	221	Advanced Calculus		UW	  	
+GEOE	299	Seminar		UW	  	
+GEOE	354	Geotechnical Engineering 2		UW	  	
+GEOE	400	Design Project 1		UW	  	
+GEOE	498	Seminar		UW	  	
+ 
+GEOG	100	On Becoming a Geographer		UW	  	
+GEOG	101	Human Geographies		UW	  	
+GEOG	102	Global Environmental Systems		UW	  	
+GEOG	181	Designing Effective Maps		UW	  	
+GEOG	187	Geospatial Data Science		UW	  	
+GEOG	203	Env & Dev Global Perspective		UW	  	
+GEOG	205	Principles of Geomorphology		UW	  	
+GEOG	207	Climate Change Fundamentals		ONLN	  	
+GEOG	219	How Pandemic Change World		ONLN	  	
+GEOG	222	Geographical Study of Canada		UW	  	
+GEOG	225	Global Environment & Health		ONLN	  	
+GEOG	233	Geography of Tourism		UW	  	
+GEOG	271	Remote Sensing: Earth/Space		UW	  	
+GEOG	281	Intro GIS		UW	  	held with PLAN 281
+GEOG	293	Human Geog Research Approaches		UW	  	
+GEOG	294	Approach to Res in Phys Geog		UW	  	
+GEOG	302	Geog of Work & Employment		UW	  	
+GEOG	303	Physical Hydrology		UW	  	
+GEOG	305	Fluvial Geomorphology		UW	  	
+GEOG	310	Geodesy & Surveying		UW	  	
+GEOG	316	Multivariate Statistics		UW	  	held with PLAN 351
+GEOG	319	Economic Analyses for Reg Plan		UW	  	held with PLAN 320
+GEOG	320	The Cryosphere		UW	  	
+GEOG	356	Resources Management		UW	  	
+GEOG	371	Adv Remote Sensing Techniques		UW	  	
+GEOG	387	Spatial Databases		UW	  	held with PLAN 387
+GEOG	391	Field Research		UW	  	
+GEOG	403	Eutrophication: Water Quality		UW	  	
+GEOG	404	Soil Ecosystem Dynamics		UW	  	Held With: ERS 484 Held With: ERS 684
+GEOG	405	Wetlands		UW	  	
+GEOG	415	Economic Geography Project		UW	  	
+GEOG	436	Feminist Economic Geography		UW	  	
+GEOG	453	Urban Stormwater Management		UW	  	held with PLAN 453
+GEOG	460	Sustainable Food: Region Study		UW	  	
+GEOG	462	Global Food & Agric Politics		UW	  	
+GEOG	481	GIS Project		UW	  	
+GEOG	490A	Honours Thesis Preparation		UW	  	
+GEOG	490B	Honours Thesis Completion		UW	  	
+ 
+GER	100	Zeitgeist & Popular Culture		UW	  	Taught in English.
+GER	101	Elementary German 1		UW	  	GER 101 is not open to students with native, near-native or similar advanced ability. Antireq.: 4U German. Students who already have knowledge of the German language please contact the Germanic & Slavic Studies Undergraduate Office (gssugrad@uwaterloo.ca) for enrollment advice.
+GER	101	Elementary German 1		ONLN	  	GER 101 is not open to students with native, near-native or similar advanced ability. Antireq.: 4U German. Students who already have knowledge of the German language please contact the Germanic & Slavic Studies Undergraduate Office (gssugrad@uwaterloo.ca) for enrollment advice.
+GER	102	Elementary German 2		ONLN	  	GER 102 is not open to students with native, near-native or similar advanced ability. Antireq.: 4U German. Students who already have knowledge of the German language but have not taken GER 101 please contact the Germanic & Slavic Studies Undergraduate Office (gssugrad@uwaterloo.ca) for enrollment advice.
+GER	201	Intermediate German 1		ONLN	  	GER 201 is not open to students with native, near-native or similar advanced ability. Students who already have knowledge of the German language but have not taken GER 102 please contact the Germanic & Slavic Studies Undergraduate Office (gssugrad@uwaterloo.ca) for enrollment advice.
+GER	230	Vikings!		ONLN	  	Taught in English.
+GER	250	Performance German 1		UW	  	Prereq: GER 101 or GER 102. Antireq: 4U German Students who have taken GER language courses higher than GER 102, have 4U German, or have the equivalent knowledge (approx. A2.2 German language level) enroll into GER 350.
+GER	271	German Culture: Objects		ONLN	  	Taught in English.
+GER	283	The Holocaust & Film		UW	  	Cross-listed with JS 233 and RS 272. Taught in English.
+GER	301	Language, Culture & Identity		UW	  	Taught in English. Cross-listed with APPLS 301.
+GER	350	Performance German 2		UW	  	Prereq: GER 201 or 4U German or equivalent knowledge.
+GER	407	Experiential Learning		OFF	  	Department consent required. Please contact the Germanic & Slavic Studies Undergraduate Office (gssugrad@uwaterloo.ca) before registering.
+GER	431	Senior Seminar	Intro Medieval German Studies	UW	  	Held with GER 620 and GER 720.
+GER	490	Senior Honours Project		UW	  	Department consent required. Please contact the Germanic & Slavic Studies Undergraduate Office (gssugrad@uwaterloo.ca) before registering.
+GER	495	Reading Course		UW	  	Department consent required. Please contact the Germanic & Slavic Studies Undergraduate Office (gssugrad@uwaterloo.ca) before registering.
+ 
+GERON	201	Aging & Health		UW	  	
+GERON	218	Psychology of Death & Dying		STJ	  	
+GERON	320	Lifespan Development & Health		UW	  	
+ 
+GRK	101	Intro Ancient Greek 1		UW	  	
+GRK	201	Intermediate Greek		UW	  	
+ 
+GSJ	101	Intro to GSJ: The Global North		UW	  	
+GSJ	203	The Waves of Feminist Thought		UW	  	
+GSJ	205	Tech, Gender & Social Justice		UW	  	
+GSJ	206	Women & the Law		UW	  	Held with: LS 201
+GSJ	307	Race & Resistance		ONLN	  	Held With: ENGL 308
+GSJ	326	Sexuality & Law		UW	  	Held With: LS 325 and SOC 325
+GSJ	371	Topics: Gender & Soc Justice	Intro to Feminist Philosophy	UW	  	Topic: Intro to Feminist Philosophy Held with: PHIL 302
+GSJ	472	Topics: Intersect Fem Theory		UW	  	Held with GEOG 436
+ 
+HEALTH	105	Mental Health Literacy		ONLN	  	
+HEALTH	107	Sociology of Activity & Health		UW	  	
+HEALTH	395	Study Abroad		UW	  	
+ 
+HIST	103	Canada Through Biography		STJ	  	
+HIST	105	Rock 'n' Roll & US History		UW	  	
+HIST	110	History of Western World 1		CGC	  	
+HIST	113	Canadian Business History		STJ	  	
+HIST	115	Crusading in the Middle Ages		STJ	  	Held with MEDVL 115
+HIST	200	History & Film		ONLN	  	
+HIST	205	History of Western Sport		UW	  	Held with REC 202
+HIST	210	History of Ancient Law		STJ	  	Held with CLAS 210, LS 235
+HIST	223	The Holocaust in History		UW	  	
+HIST	230	Intro Modern Middle East		UW	  	
+HIST	250	Intro Historical Thinking		UW	  	
+HIST	253	Canada: Cultures & Conflicts		UW	  	
+HIST	256	Murder in Canadian History		UW	  	
+HIST	257	US: Through the Civil War Era		UW	  	
+HIST	262	Modern Europe: 1450-1700		CGC	  	(Tentative)
+HIST	269	Indigenous Histories in Canada		UW	  	
+HIST	275	Modern World: Hist Perspective		UW	  	
+HIST	313	Family in North America		STJ	  	
+HIST	314	American Civil Rights Movement		UW	  	
+HIST	316	The Russian Revolution		UW	  	
+HIST	323	Global History of Prison		UW	  	
+HIST	370	Bond, Bowie & Brexit		UW	  	
+HIST	379	Reformation History		CGC	  	Held with RS 343 Held with TS 645
+HIST	389	Canada in World Affairs		STJ	  	
+HIST	422	Special Topics	Cold War: Culture & Politics	UW	  	Topic: North American History Title: TBD
+HIST	422	Special Topics	Modernity: East Asian Eyes	UW	  	Topic: East Asian History Title: TBD
+HIST	422	Special Topics	Microhistory&LostPeople of Eur	STJ	  	Topic: Microhistory & the Lost People of Europe
+ 
+HLTH	101	Intro Health 1		UW	  	
+HLTH	101	Intro Health 1		ONLN	  	
+HLTH	103	Biol Determinants of Health		UW	  	
+HLTH	201	Aging & Health		UW	  	
+HLTH	202	Public & Population Health		UW	  	
+HLTH	204	Qnt Approaches to Hlth Sci		UW	  	
+HLTH	205	Intro Health Research		UW	  	
+HLTH	218	Psychology of Death & Dying		STJ	  	
+HLTH	290	Intro Health Neuroscience		UW	  	
+HLTH	301	Applied Health Promotion		UW	  	
+HLTH	303	Program Planning & Evaluation		UW	  	
+HLTH	320	Lifespan Development & Health		UW	  	
+HLTH	333	Principles of Epidemiology		UW	  	
+HLTH	340	Env Toxicology & Public Health		UW	  	
+HLTH	341	Pathobiology Principles		UW	  	
+HLTH	355	Public Health Nutrition		UW	  	
+HLTH	407	Cardio Pathophysiology		UW	  	
+HLTH	410	Health Policy		UW	  	
+HLTH	421	Chronic Disease & Nutrition		UW	  	
+HLTH	427	Dementia Care		UW	  	
+HLTH	442	Non-Communicable Disease Epid		UW	  	
+HLTH	448	Adv Soc Determinants of Hlth		UW	  	
+HLTH	451	Analysis & Mgmt of Hlth Info		UW	  	
+HLTH	453	Computing in Hlth Informatics		UW	  	
+HLTH	455	Disease Mapping & GIS		UW	  	
+ 
+HRM	200	Basic Human Resources Mgmt		UW	  	
+HRM	200	Basic Human Resources Mgmt		ONLN	  	
+HRM	301	Strategic Human Resources Mgmt		UW	  	All seats reserved for HRM students
+HRM	303	Compensation		UW	  	All seats reserved for HRM students
+HRM	305	Health & Safety		UW	  	All seats reserved for HRM students
+HRM	307	Labour Relations		UW	  	All seats reserved for HRM students
+HRM	400	Hon Sem: Special Topics in HRM		UW	  	All seats reserved for HRM students
+ 
+HRTS	101	Intro Human Rights		STP	  	
+HRTS	201	Found of Human Rights		STP	  	
+HRTS	301	Human Rights & the UN		STP	  	
+ 
+HUMSC	101	Reflection & Action		STJ	  	
+ 
+INDENT	200	Past, Present, Future		ONLNP	  	
+INDENT	210	Fundamentals		ONLNP	  	
+INDENT	225	Practicum 1		ONLNP	  	
+ 
+INDEV	100	Intro lntl Development		STP	  	
+INDEV	200	Political Econ of Development		BLNDP	  	
+INDEV	262	Intro Global Emerging Cities		BLNDP	  	Held with PLAN 262
+INDEV	302	Development Agents		STP	  	
+INDEV	375	Topics: Intl Development	Social Movements	STP	  	
+INDEV	387	Global Cities in Global Dev		BLNDP	  	
+INDEV	401	International Dev Placement 1		ONLN	  	Course is completed on-line while on Field placement
+INDEV	404	International Dev Theory		ONLN	  	Course is a requirement for those students pursuing the Research stream.
+INDEV	490A	Hons Thesis: Prj Prep		STP	  	Course will be a type of reading course for those students who will be completing the Research stream instead of the Placement stream.
+ 
+INDG	101	Mohawk Language 1		BLNDR	  	
+INDG	201	Indigenous Experience Canada		STP	  	
+ 
+INTEG	10	Knowledge Integration Seminar		UW	  	
+INTEG	120	Art & Science of Learning		UW	  	
+INTEG	210	Making Collaboration Work		UW	  	
+INTEG	220	Nature of Scientific Knowledge		UW	  	
+INTEG	240	Bullshit, Bias, Bad Arguments		UW	  	
+INTEG	251	Creative Thinking		UW	  	
+INTEG	320	Museum: Research & Design		UW	  	
+INTEG	340	Research Design & Methods		UW	  	
+INTEG	420A	Senior Honours Project A		UW	  	
+INTEG	499A	Independent Group Project A		UW	  	
+ 
+INTST	101	Intro International Studies		UW	  	
+ 
+ITAL	101	Intro Italian Language 1		BLNDJ	  	
+ITAL	101	Intro Italian Language 1		ONLNJ	  	
+ITAL	201	Intermediate Italian 1		BLNDJ	  	
+ 
+ITALST	100	Understanding Modern Italy		ONLNJ	  	
+ITALST	120	Italian Cinema		STJ	  	
+ITALST	265	The Mafia		STJ	  	
+ITALST	291	Ital Culture & Civilization 1		ONLNJ	  	
+ 
+JAPAN	101R	First-Year Japanese 1		REN	  	
+JAPAN	102R	First-Year Japanese 2		REN	  	JAPAN 102R is not open to students with native, near-native or similar advanced ability. Students with knowledge of the Japanese language who have not taken JAPAN 101R or JAPAN 111R, please contact cls@uwaterloo.ca for an assessment.
+JAPAN	201R	Second-Year Japanese 1		REN	  	JAPAN 201R is not open to students with native, near-native or similar advanced ability. Students with knowledge of the Japanese language who have not taken JAPAN 102R or JAPAN 112R, please contact cls@uwaterloo.ca for an assessment.
+JAPAN	202R	Second-Year Japanese 2		REN	  	JAPAN 202R is not open to students with native, near-native or similar advanced ability. Students with knowledge of the Japanese language who have not taken JAPAN 201R, please contact cls@uwaterloo.ca for an assessment.
+JAPAN	301R	Third-Year Japanese 1		REN	  	JAPAN 301R is not open to students with native, near-native or similar advanced ability. Students with knowledge of the Japanese language who have not taken JAPAN 202R, please contact cls@uwaterloo.ca for an assessment.
+ 
+JS	233	The Holocaust & Film		UW	  	Held with RS 272 Held with GER 283
+JS	234	Bible: Power & Corruption		UW	  	Held with RS 234
+JS	235	Jesus: Life & Legacy		ONLNG	  	Held with RS 235
+ 
+KIN	104	Fundamentals of Kinesiology		UW	  	
+KIN	104L	Kinesiology Fundamentals Lab		UW	  	
+KIN	121	Biomech of Human Movement		UW	  	
+KIN	121L	Biomech of Human Movement Lab		UW	  	
+KIN	202	Exercise Physiology		UW	  	
+KIN	202L	Exercise Physiology Lab		UW	  	
+KIN	217	Human Biochemistry		UW	  	
+KIN	255	Neuroscience Fundamentals		UW	  	
+KIN	255L	Fund of Neuroscience Lab		UW	  	
+KIN	301	Human Anatomy of the CNS		UW	  	
+KIN	308	Cardiovasc & Pulmonary Physiol		UW	  	
+KIN	340	Injuries in Sport & Activity		UW	  	
+KIN	343	Micronutrient Metabolism		ONLN	  	
+KIN	346	Human Nutrition & Metabolism		UW	  	
+KIN	354	Physical Activity Psychology		UW	  	
+KIN	357	Motor Learn & Neuroplasticity		UW	  	
+KIN	391	Research Apprenticeship		UW	  	
+KIN	400	Athletic Injury Practicum		UW	  	
+KIN	406	Muscle Aging & Disease		UW	  	
+KIN	407	Cardio Pathophysiology		UW	  	
+KIN	416	Neuromuscular Integration		UW	  	
+KIN	418	Physical Activity & Aging		BLND	  	
+KIN	420	Occupational Biomechanics		UW	  	
+KIN	422	Human Posture, Balance & Gait		UW	  	
+KIN	425	Biomechanical Modelling		UW	  	
+KIN	428	Upper Extremity Disorders		UW	  	
+KIN	429	Bone & Joint Health		UW	  	
+KIN	431	Research Proposal	Kinesiology	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Applied Sport Sciences	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Ergonomics	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Rehabilitation	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Gerontology	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Nutrition	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Motor Control and Learning	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Movement Disorders	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Anatomy	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Occupational Health	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Sports Medicine	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Psych of Physical Activity	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Sociology of Physical Activity	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Neuroscience	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Exercise Physiology	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Biochemistry	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	431	Research Proposal	Biomechanics	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Kinesiology	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Applied Sport Sciences	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Ergonomics	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Rehabilitation	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Gerontology	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Nutrition	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Motor Control and Learning	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Movement Disorders	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Anatomy	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Occupational Health	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Sports Medicine	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Psych of Physical Activity	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Sociology of Physical Activity	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Neuroscience	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Exercise Physiology	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Biochemistry	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	432	Research Project	Biomechanics	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Kinesiology	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Applied Sport Sciences	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Ergonomics	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Rehabilitation	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Gerontology	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Nutrition	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Motor Control and Learning	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Movement Disorders	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Anatomy	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Occupational Health	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Sports Medicine	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Psych of Physical Activity	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Sociology of Physical Activity	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Neuroscience	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Exercise Physiology	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Biochemistry	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	433	Senior Essay	Biomechanics	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	470	Sem: Kinesiology	Visuomotor Neuroscience	UW	  	
+KIN	470	Sem: Kinesiology	Biomechanics of Injury	UW	  	
+KIN	470	Sem: Kinesiology	Integrated Exercise Physiology	UW	  	
+KIN	470	Sem: Kinesiology	Anatomical Inquiries	UW	  	
+KIN	471	Kin: Contemporary Issues	Anatomy of the Thorax & Abdome	UW	  	
+KIN	472	Directed Study	Kinesiology	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Nutrition	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Ergonomics	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Rehabilitation	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Psych of Physical Activity	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Sociology of Physical Activity	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Anatomy	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Occupational Health	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Sports Medicine	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Neuroscience 2	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Neuroscience 1	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Exercise Physiology 2	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Exercise Physiology 1	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Biomechanics 2	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	472	Directed Study	Biomechanics 1	UW	  	Course requires supervision by a KIN faculty member. Please contact the professor you would like to work with to discuss options.
+KIN	491	Clinic: Sports Injuries Assess		UW	  	
+ 
+KOREA	101R	First-Year Korean 1		REN	  	Students with knowledge of the Korean language, please contact EAS@uwaterloo.ca for an assessment.
+KOREA	102R	First-Year Korean 2		REN	  	
+KOREA	201R	Second-Year Korean 1		REN	  	
+KOREA	301R	Third-Year Korean 1		REN	  	
+ 
+LAT	101	Intro Latin 1		UW	  	
+LAT	201	Intermediate Latin		UW	  	
+LAT	351	Composition, Grammar & Reading		UW	  	
+LAT	451	Sr Latin Composition & Rdg		UW	  	
+ 
+LS	101	Intro Legal Studies		STJ	  	Spaces will be reserved for year one students in the Faculty of Arts.
+LS	101	Intro Legal Studies		ONLNJ	  	
+LS	201	Women & the Law		UW	  	Held with GSJ 206
+LS	202	Criminal Law		STJ	  	
+LS	221	Research Methods		UW	  	Required for Legal Studies majors. Held with SOC 221.
+LS	227	Criminology		UW	  	Held with SOC 227
+LS	229	Topics: Criminology		STJ	  	Held with SOC 229
+LS	235	History of Ancient Law		STJ	  	Held with HIST 210, CLAS 210
+LS	263	Organized Crime		UW	  	Held with SOC 263
+LS	271	Conflict Resolution		ONLNG	  	Held with PACS 202
+LS	273	Children's Rights in Canada		ONLNR	  	Held withSDS 210R
+LS	280	Social Statistics		ONLN	  	ARBUS students should take ARTS 280, not LS 280
+LS	283	Business Law		ONLN	  	Held with AFM 231
+LS	300	Sociology of Law		UW	  	Reserved and required for Legal Studies majors. Held with SOC 370.
+LS	319	Negotiation: Theory & Strat		CGC	  	Held with PACS 323
+LS	322	Field Research Methods		ONLN	  	Required for Legal Studies majors. Held with SOC 322.
+LS	325	Sexuality & Law		UW	  	Held with SOC 325 and GSJ 326
+LS	327	Policing in a Democratic Soc		STJ	  	Held with SOC 327
+LS	344	Restorative Justice		CGC	  	Held with PACS 329
+LS	351	Philosophy of Law		BLNDJ	  	Held with PHIL 327
+LS	401	Law, Culture & Rights		STJ	  	Level at least 4A LEGAL STUDIES majors only.
+LS	402	Legal Authority & Subjectivity		STJ	  	Level at least 4A LEGAL STUDIES majors only.
+LS	403	Socio-Legal Responses to Crime		UW	  	Reserved for level at least 4A Legal Studies majors only.
+LS	413	Surveillance & Society		ONLN	  	Reserved for level at least 4A Legal Studies majors only. Held with SOC 413.
+LS	423	Peers & Crime		ONLN	  	Reserved for level at least 4A Legal Studies majors only. Held with SOC 423.
+LS	462	Politics of Indigenous Peoples		UW	  	Reserved for level at least 4A Legal Studies majors only.Held with PSCI 462.
+LS	496	Special Topics	Law of the Environment	STJ	  	Topic: Law of the Environment Level at least 4A LEGAL STUDIES majors only.
+LS	498	Directed Readings		UW	  	Must have a supervisor and department permission. For enrolment instructions, please see "497, 498, and 499 Courses" section of SOC and LS FAQ: https://uwaterloo.ca/sociology-and-legal-studies/undergraduate/faq
+ 
+MATBUS	371	Intro Corporate Finance		UW	  	
+MATBUS	470	Derivatives		UW	  	MATBUS 470 is suggested in place of ACTSC 446 for students with STAT 334 instead of STAT 330 & 333.
+MATBUS	471	Fixed Income Securities		UW	  	
+ 
+MATH	103	Intro Algebra (Arts & Soc Sci)		ONLN	  	
+MATH	104	Intro Calc (Arts & Soc Sci)		ONLN	  	
+MATH	106	Applied Linear Algebra 1		BLND	  	
+MATH	114	Linear Algebra (Sci)		UW	  	
+MATH	115	Linear Algebra (Eng)		UW	  	
+MATH	116	Calculus 1 (Eng)		UW	  	
+MATH	117	Calculus 1 (Eng)		UW	  	
+MATH	124	Calc & Vector Algebra (Kin)		UW	  	
+MATH	127	Calculus 1 (Sci)		UW	  	
+MATH	127	Calculus 1 (Sci)		ONLN	  	
+MATH	128	Calculus 2 (Sci)		UW	  	
+MATH	128	Calculus 2 (Sci)		ONLN	  	
+MATH	135	Algebra (Honours)		UW	  	
+MATH	135	Algebra (Honours)		ONLN	  	
+MATH	136	Linear Algebra 1 (Honours)		UW	  	
+MATH	136	Linear Algebra 1 (Honours)		ONLN	  	
+MATH	137	Calculus 1 (Honours)		UW	  	
+MATH	137	Calculus 1 (Honours)		ONLN	  	
+MATH	138	Calculus 2 (Honours)		UW	  	
+MATH	138	Calculus 2 (Honours)		ONLN	  	
+MATH	145	Algebra (Adv)		UW	  	
+MATH	147	Calculus 1 (Adv)		UW	  	
+MATH	207	Calculus 3 (Non-Spec)		UW	  	
+MATH	217	Calculus 3 (Chem Eng)		UW	  	
+MATH	218	Differential Equations (Eng)		UW	  	
+MATH	225	Applied Linear Algebra 2		UW	  	
+MATH	227	Calculus 3 (Hons Phys)		UW	  	
+MATH	228	Diff Equations (Phys & Chem)		UW	  	
+MATH	229	Intro Combinatorics (Non-Spec)		UW	  	
+MATH	235	Linear Algebra 2 (Honours)		UW	  	
+MATH	235	Linear Algebra 2 (Honours)		ONLN	  	
+MATH	237	Calculus 3 (Honours)		UW	  	
+MATH	237	Calculus 3 (Honours)		ONLN	  	
+MATH	239	Intro Combinatorics		UW	  	
+MATH	245	Linear Algebra 2 (Adv)		UW	  	
+MATH	247	Calculus 3 (Adv)		UW	  	
+MATH	249	Intro Combinatorics (Adv)		UW	  	
+ 
+ME	100	Intro Practice 1		UW	  	
+ME	200A	Seminar		UW	  	
+ME	200B	Seminar		UW	  	
+ME	201	Advanced Calculus		UW	  	
+ME	202	Statistics for Engineers		UW	  	
+ME	203	Ordinary Differential Equation		UW	  	
+ME	212	Dynamics		UW	  	
+ME	219	Mech of Deformable Solids 1		UW	  	
+ME	220	Mech of Deformable Solids 2		UW	  	
+ME	230	Control of Material Properties		UW	  	
+ME	250	Thermodynamics 1		UW	  	Section #1 for ME students
+ME	262	Microprocessors & Digi Logic		UW	  	
+ME	269	Electromech Dev & Power Proc		UW	  	
+ME	300B	Seminar		UW	  	
+ME	322	Mechanical Design 1		UW	  	
+ME	351	Fluid Mechanics 1		UW	  	Reserve; 3B Mechatronics students
+ME	353	Heat Transfer 1		UW	  	
+ME	360	Intro Control Systems		UW	  	
+ME	362	Fluid Mechanics 2		UW	  	
+ME	380	Design Workshop		UW	  	
+ME	400A	Seminar		UW	  	
+ME	423	Mechanical Design 2		UW	  	
+ME	435	Industrial Metallurgy		UW	  	
+ME	436	Welding & Joining Processes		UW	  	Held at Conestoga College.
+ME	456	Heat Transfer 2		UW	  	
+ME	459	Energy Conversion		UW	  	
+ME	481	Design Project 1		UW	  	
+ME	482	Design Project 2		UW	  	
+ME	548	Num Control of Machine Tools 1		UW	  	
+ME	559	Finite Element Methods		UW	  	
+ME	561	Fluid Power Control Systems		UW	  	
+ME	566	Computational Fluid Dynamics		UW	  	
+ME	572	Building Energy Analysis		UW	  	
+ME	595	Special Topics	Microfluidic & MEMS Syst & App	UW	  	
+ 
+MEDVL	105	Intro Medieval Studies		UW	  	
+MEDVL	115	Crusading in the Middle Ages		STJ	  	Cross listed with HIST 115
+MEDVL	250R	Islam Civ: Late Antiquity-1300		REN	  	Cross listed with SI 250R.
+MEDVL	252	Medieval Monsters		ONLNJ	  	
+ 
+MGMT	171	Fund of Personal & Bus Fin		UW	  	
+MGMT	220	Entrepreneur & Creative Workpl		UW	  	
+MGMT	244	Principles of Marketing		UW	  	
+MGMT	244	Principles of Marketing		ONLN	  	
+MGMT	345	Marketing Strategy		UW	  	
+ 
+MNS	10	Sem: Materials & Nanosciences		UW	  	
+MNS	101	Materials & Nanosciences		UW	  	
+MNS	211	Chemistry & Solid State		UW	  	
+MNS	321	Electr & Optic Prop of Mtls		UW	  	
+ 
+MOHAWK	101R	Mohawk Language 1		BLNDR	  	
+ 
+MSCI	100	Management Eng Concepts		UW	  	Instructor: Mehrdad Pirnia;1A MGTE only;
+MSCI	200A	Seminar		UW	  	Instructor: Fatma Gzara; 2A MGTE only;
+MSCI	211	Organizational Behaviour		ONLN	  	Instructor: Umair Shah;
+MSCI	240	Algorithms & Data Structures		UW	  	Instructor: Oliver Schneider; 2A MGTE only;
+MSCI	251	Probability & Statistics 1		UW	  	Instructor: Houra Mahmoudzadeh; 2A MGTE only;
+MSCI	261	Eng Economics: Fin Mgmt		UW	  	Reserved for 2A MGTE (Saeed Ghadimi), 3B ME (Arash Soleimani Dahaj), 3B MTE (Fuat Can Beylunioglu), and 2B CHE (Hassan Shavandi) ;
+MSCI	271	Adv Calc & Numerical Methods		UW	  	Instructor: Qi Ming He; 2A MGTE only;
+MSCI	300B	Seminar		UW	  	Instructor: Fatma Gzara; 3B MGTE only;
+MSCI	311	Organizational Design & Tech		UW	  	Instructor: Rob Duimering;
+MSCI	331	Intro Optimization		UW	  	Instructor: Samir Elhedhli;
+MSCI	332	Deterministic Optimization		UW	  	Instructor: Fatma Gzara;
+MSCI	333	Simulation Analysis & Design		UW	  	Instructor: Hassan Shavandi; 3B MGTE only;
+MSCI	343	Human-Computer Interaction		UW	  	Instructor: Oliver Schneider; 3B MGTE only;
+MSCI	391	Work-term Report		UW	  	Instructor: Umair Shah; level at least 3A MGTE only;
+MSCI	392	Work-term Report		UW	  	Instructor: Umair Shah; level at least 3B MGTE only;
+MSCI	422	Econ Impact of Tech Change		UW	  	Instructor: Brian Cozzarin;
+MSCI	432	Prod & Svc Ops Mgmt		UW	  	Instructor: Umair Shah;
+MSCI	491	Work-term Report		UW	  	Instructor: Umair Shah; Level at least 4A MGTE only;
+MSCI	541	Search Engines		UW	  	Instructor: Amir Vakili Tahimi;
+MSCI	551	Quality Management & Control		UW	  	Instructor: Mahta Mortazavian;
+ 
+MTE	100	Mechatronics Engineering		UW	  	
+MTE	121	Digital Computation		UW	  	
+MTE	200A	Seminar		UW	  	
+MTE	200B	Seminar		UW	  	
+MTE	201	Exp Measure & Stat Analysis		UW	  	
+MTE	202	Ordinary Differential Equation		UW	  	
+MTE	203	Advanced Calculus		UW	  	
+MTE	204	Numerical Methods		UW	  	
+MTE	219	Mechanics of Deformable Solids		UW	  	
+MTE	220	Sensors & Instrumentation		UW	  	
+MTE	241	Comp Struct & Real-Time Sys		UW	  	
+MTE	262	Microprocessors & Digi Logic		UW	  	
+MTE	300B	Seminar		UW	  	
+MTE	322	Electromech Machine Design		UW	  	
+MTE	360	Automatic Control Systems		UW	  	
+MTE	380	Design Workshop		UW	  	
+MTE	400A	Seminar		UW	  	
+MTE	420	Pwr Electronics & Motor Drives		UW	  	
+MTE	421	Linear & Nonlinear Electronics		UW	  	
+MTE	481	Design Project		UW	  	4A Mechatronics Core Project Course
+MTE	544	Autonomous Mobile Robots		UW	  	
+MTE	545	Intro MEMS Fabrication		UW	  	
+MTE	599	Topics: Mechanical Systems	Microfluidics-based Lab & MEMS	UW	  	
+ 
+MTHEL	99	First-Year Math Readiness	First year readiness	ONLN	  	
+MTHEL	131	Intro Actuarial Practice		UW	  	Fall section is reserved for 1st year students.
+ 
+MUSIC	100	Understanding Music		CGC	  	
+MUSIC	110	How Music Matters		CGC	  	
+MUSIC	111	Fundamentals of Music Theory		CGC	  	
+MUSIC	116	Music Ensemble		CGC	  	Audition required
+MUSIC	117	Music Ensemble		CGC	  	Audition required
+MUSIC	140	Popular Music & Culture		CGC	  	
+MUSIC	216	Music Ensemble		CGC	  	Audition required
+MUSIC	217	Music Ensemble		CGC	  	Audition required
+MUSIC	222	Conducting 1		CGC	  	
+MUSIC	226	Music Studio		CGC	  	Department Consent Required
+MUSIC	227	Music Studio		CGC	  	Department Consent Required
+MUSIC	232	Music as a Global Phenomenon		CGC	  	
+MUSIC	246	Soundtracks: Music in Film		CGC	  	
+MUSIC	253	Music to 1600		CGC	  	
+MUSIC	256	Music Since 1900		CGC	  	
+MUSIC	261	Opera		CGC	  	
+MUSIC	270	Music Theory 1		CGC	  	
+MUSIC	275	Music & Technology		CGC	  	
+MUSIC	316	Music Ensemble		CGC	  	Audition required
+MUSIC	317	Music Ensemble		CGC	  	Audition required
+MUSIC	326	Music Studio		CGC	  	Department Consent Required
+MUSIC	327	Music Studio		CGC	  	Department Consent Required
+MUSIC	364	Worship & its Music		CGC	  	Held with CMW 364 Held with RS 358 Held with TS 653
+MUSIC	370	Music Theory 3: 19th Century		CGC	  	
+MUSIC	380	Directed Study		CGC	  	Department Consent Required
+MUSIC	381	Directed Study		CGC	  	Department Consent Required
+MUSIC	416	Music Ensemble		CGC	  	Audition required
+MUSIC	417	Music Ensemble		CGC	  	Audition required
+MUSIC	426	Music Studio		CGC	  	Department Consent Required
+MUSIC	427	Music Studio		CGC	  	Department Consent Required
+MUSIC	428	Music Studio		CGC	  	Department Consent Required
+MUSIC	491	Senior Research Seminar		CGC	  	
+MUSIC	492	Senior Honours Thesis		CGC	  	Department Consent Required
+ 
+NE	100	Intro Nanotech Eng		UW	  	Department consent to drop
+NE	101	Nanotechnology Eng Practice		UW	  	Department consent to drop
+NE	109	Nanotech Impact Society & Env		UW	  	Department consent to drop
+NE	111	Intro Programming for Eng		UW	  	Department consent to drop
+NE	112	Linear Algebra		UW	  	Department consent to drop
+NE	121	Chemical Principles		UW	  	Department consent to drop
+NE	201	Nanotoxicology		UW	  	Department consent to drop
+NE	215	Probability & Statistics		UW	  	Department consent to drop
+NE	216	Adv Calculus & Num Methods 1		UW	  	Department consent to drop
+NE	220L	Materials Sci & Eng Lab		UW	  	Department consent to drop
+NE	222	Organic Chemistry		UW	  	Department consent to drop
+NE	241	Electromagnetism		UW	  	Department consent to drop
+NE	302	Nanotechnology Eng Practice		UW	  	
+NE	307	Intro Nanosystems		UW	  	Department consent to drop
+NE	330L	Macromolecular Science Lab		UW	  	Department consent to drop
+NE	334	Statistical Thermodynamics		UW	  	Department consent to drop
+NE	335	Soft Nanomaterials		UW	  	
+NE	336	Micro & Nanosys Comp-Aid-Dsgn		UW	  	Department consent to drop
+NE	340L	Microfab & Thin-film Tech Lab		UW	  	Department consent to drop
+NE	344	Electronic Circuits		UW	  	
+NE	345	Photonic Materials & Devices		UW	  	
+NE	350	Work-term Report 2		ONLN	  	Department consent to drop
+NE	352	Surfaces & Interfaces		UW	  	
+NE	353	Nanoprobing & Lithography		UW	  	
+NE	381	Intro Nanoscale Biosystems		UW	  	
+NE	408	Nanosystems Design Project		UW	  	Department consent to drop
+NE	451	Simulation Methods		UW	  	
+NE	454A	Nano-electronics Lab 1		UW	  	
+NE	454B	Nano-instrumentation Lab 1		UW	  	
+NE	454C	Nanobiosystems Lab 1		UW	  	
+NE	454D	Nanostructured Materials Lab 1		UW	  	
+NE	471	Nano-electronics		UW	  	
+NE	481	Nanomed & Nanobiotech		UW	  	
+NE	486	Biosensors		UW	  	
+NE	491	Nanostructured Materials		UW	  	
+ 
+OPTOM	248	Clinical Experience 3		UW	  	
+ 
+PACS	101	Peace is Everybody's Business		CGC	  	
+PACS	201	Roots of Conflict/Viol/Peace		CGC	  	
+PACS	202	Conflict Resolution		ONLNG	  	Held with LS 271
+PACS	301	Special Topics 1 in PACS		CGC	  	Topic: TBA
+PACS	313	Community Conflict Resolution		CGC	  	
+PACS	315	Engineering & Peace		CGC	  	
+PACS	323	Negotiation: Theory & Strat		CGC	  	Held with LS 319
+PACS	329	Restorative Justice		CGC	  	LS 344
+PACS	331	Trauma, Healing & Confl Resol		CGC	  	
+PACS	390	Internship		CGC	  	
+PACS	391	Conflict Resolution Skills	Workshop 1	CGC	  	
+PACS	391	Conflict Resolution Skills	Workshop 2	CGC	  	
+PACS	398	Directed Readings		CGC	  	
+PACS	399	Directed Readings		CGC	  	
+PACS	401	Senior Research Seminar		CGC	  	
+ 
+PD	1	Career Fundamentals		ONLN	  	Online course Reserved for co-op and EDGE students only Reserved for non-Engineering students only
+PD	3	Communication		ONLN	  	Online Course Reserved for co-op and EDGE students only
+PD	5	Project Management		ONLN	  	Online Course Reserved for co-op and EDGE students only
+PD	6	Problem Solving		ONLN	  	Online Course Reserved for co-op and EDGE students only
+PD	7	Conflict Resolution		ONLN	  	Online Course Reserved for co-op and EDGE students only
+PD	9	Ethical Decision Making		ONLN	  	Online course Reserved for co-op and EDGE students only
+PD	10	Professional Resp in Computing		ONLN	  	Online course Reserved for co-op and EDGE students only
+PD	11	Technical Report Writing		ONLN	  	Online course Reserved for co-op students only
+PD	12	Critical Reflection		ONLN	  	Online course Reserved for co-op students only
+PD	13	Research in the Workplace		ONLN	  	Online course Reserved for co-op and EDGE students only
+PD	19	Tactics for Workplace Success		ONLN	  	Online Course Reserved for Engineering students only Anti-requisite: PD21
+PD	20	Dev Reasoned Conclusions		ONLN	  	Online Course Reserved for Engineering students only
+PD	22	Eng Professionalism & Ethics		ONLN	  	Online course Reserved for co-op students only Anti-requisite: ECE 290
+ 
+PDARCH	2	Co-op Fundamentals		ONLN	  	
+PDARCH	4	Writing, Editing & Research		ONLN	  	
+ 
+PHARM	351	Mgmt: Community Pharm Pract		UW	  	
+PHARM	352	Mgmt: Pharm Pract in Orgs		UW	  	
+PHARM	353	Entrepreneurship in Pharmacy		UW	  	
+PHARM	361	Advanced Compounding		UW	  	
+PHARM	366	Nutritional Sciences Concepts		UW	  	
+PHARM	375	Substance Abuse & Dependency		UW	  	
+PHARM	377	Drug-Induced Disease		UW	  	
+PHARM	464	Adv Therapeutics in Oncology		UW	  	
+PHARM	473	Advanced Infectious Disease		UW	  	
+PHARM	474	Pharmacotherapy: Hospital		UW	  	
+ 
+PHIL	100J	Intro Philosophy		STJ	  	
+PHIL	100J	Intro Philosophy		BLNDJ	  	
+PHIL	101	Challenging Ideas: Intro Phil		UW	  	
+PHIL	110A	Intro Phil: Knowledge/Reality		ONLN	  	
+PHIL	121	Moral Issues		UW	  	
+PHIL	145	Critical Thinking		UW	  	
+PHIL	145	Critical Thinking		ONLN	  	
+PHIL	200J	Aristotelian Logic		BLNDJ	  	
+PHIL	211J	Death & the After-Life		STJ	  	
+PHIL	215	Professional & Business Ethics		UW	  	Held with: ARBUS 202
+PHIL	215	Professional & Business Ethics		ONLN	  	Held with: ARBUS 202
+PHIL	221	Ethics		ONLN	  	
+PHIL	226	Biomedical Ethics		UW	  	class 3684- section 001 class 4773- section 002
+PHIL	240	Intro Formal Logic		UW	  	
+PHIL	251	Metaphysics & Epistemology		ONLN	  	
+PHIL	256	Intro Cognitive Science		UW	  	Held with: PSYCH 256
+PHIL	258	Intro Philosophy of Science		UW	  	Held with: SCI 267
+PHIL	260	Ancient Science		UW	  	Held with: SCI 266
+PHIL	283	Great Works: Ancient & Medvl		UW	  	Held With: CLAS 261
+PHIL	284	Great Works: Modern		ONLNJ	  	
+PHIL	302	Topics: Feminist Philosophy	Intro to Feminist Philosophy	UW	  	Topic: Intro to Feminist Philosophy Held with: GSJ 371
+PHIL	319J	Ethics of End-of-Life Care		STJ	  	
+PHIL	324	Social & Political Philosophy		ONLN	  	
+PHIL	327	Philosophy of Law		BLNDJ	  	Held with LS 351
+PHIL	363	Philosophy of Language		UW	  	
+PHIL	422	Studies: Political Philosophy	Fairness/AntiDiscrimin in AI	UW	  	Topic: Fairness and Antidiscrimination in AI Held With: PHIL 673/675 sections 001
+PHIL	459	Philosophy of Physics	Philosophy of Quantum Theory	UW	  	Topic: Philosophy of Quantum Theory Held with: PHIL 673/675 sections 002
+ 
+PHYS	10	Sem: Physics		UW	  	
+PHYS	111	Physics 1		UW	  	
+PHYS	111L	Physics 1 Lab		UW	  	
+PHYS	115	Mechanics		UW	  	
+PHYS	121	Mechanics		UW	  	
+PHYS	121L	Mechanics Lab		UW	  	
+PHYS	224	Electricity & Magnetism		UW	  	
+PHYS	224L	Electricity & Magnetism Lab		UW	  	
+PHYS	225	Modeling Life Physics		UW	  	
+PHYS	232L	Measurement Lab		UW	  	for students in MNS, Physics, Physics and Astronomy and Mathematical Physics programs
+PHYS	249	Computational Phys & Lin Alg		UW	  	
+PHYS	256	Geometrical & Physical Optics		UW	  	
+PHYS	256L	Optics Lab		UW	  	
+PHYS	275	Planets		UW	  	
+PHYS	342	Electricity & Magnetism 2		UW	  	
+PHYS	358	Thermal Physics		UW	  	Cross-listed with ECE 403
+PHYS	359	Statistical Mechanics		OFF	  	This course is offered in China only
+PHYS	360A	Modern Physics Lab 1		UW	  	Held with PHYS 360B, PHYS 460A and PHYS 460B
+PHYS	360B	Modern Physics Lab 2		UW	  	Held with PHYS 360A, PHYS 460A and PHYS 460B
+PHYS	363	Intmd Classical Mechanics		UW	  	
+PHYS	364	Mathematical Physics 1		UW	  	
+PHYS	380	Molecular & Cellular Biophys		UW	  	
+PHYS	434	Quantum Physics 3		UW	  	
+PHYS	437A	Research Project		ONLN	  	
+PHYS	437B	Research Project (Continued)		ONLN	  	
+PHYS	442	Electricity & Magnetism 3		UW	  	
+PHYS	449	Machine Learning in Physics		UW	  	
+PHYS	454	Quantum Theory 2		UW	  	
+PHYS	460A	Advanced Lab 1		UW	  	Held with PHYS 360A, PHYS 360B and PHYS 460B
+PHYS	460B	Advanced Lab 2		UW	  	Held with PHYS 360A, PHYS 360B and PHYS 460A
+PHYS	468	Intro Quantum Info Processing		UW	  	
+PHYS	474	Galaxies		UW	  	
+PHYS	475	Cosmology		UW	  	
+PHYS	491	Topics: Life, Med & Biophysics		UW	  	
+ 
+PLAN	100	The Evolution of Planning		UW	  	
+PLAN	102	Professional Communication		UW	  	
+PLAN	104	Perspectives on Planning		UW	  	
+PLAN	105	Intro Planning Analysis		UW	  	
+PLAN	210	Community Design Fund		UW	  	
+PLAN	262	Intro Global Emerging Cities		BLND	  	
+PLAN	281	Intro GIS		UW	  	Planning students should be registering for this course in the winter term!
+PLAN	300	Planning Theory		UW	  	
+PLAN	309	Site Planning & Design Studio		UW	  	
+PLAN	320	Economic Analyses for Reg Plan		UW	  	
+PLAN	340	Canadian Env Policy & Politics		UW	  	
+PLAN	351	Multivariate Statistics		UW	  	
+PLAN	387	Spatial Databases		UW	  	
+PLAN	417	Aggregate Resources		ONLN	  	
+PLAN	451	Tools for Sust Communities		UW	  	
+PLAN	453	Urban Stormwater Management		UW	  	
+PLAN	474	Special Topics: Planning	The Future of Infrastructure	UW	  	The Future of Infrastructure
+PLAN	474	Special Topics: Planning	Technology and the City	UW	  	Technology and the City
+PLAN	481	GIS Project		UW	  	
+ 
+PMATH	330	Intro Mathematical Logic		UW	  	
+PMATH	331	Applied Real Analysis		UW	  	held with AMATH 331
+PMATH	333	Intro Real Analysis		UW	  	
+PMATH	340	Elementary Number Theory		UW	  	
+PMATH	347	Groups & Rings		UW	  	
+PMATH	433	Model Theory & Set Theory		UW	  	
+PMATH	445	Rep of Finite Groups		UW	  	held with PMATH 745
+PMATH	450	Lebesgue Integ & Fourier Anal		UW	  	held with PMATH 650
+PMATH	451	Measure & Integration		UW	  	held with PMATH 651
+PMATH	453	Functional Analysis		UW	  	held with PMATH 753
+PMATH	465	Smooth Manifolds		UW	  	held with PMATH 665
+ 
+PSCI	100	Power, Politics & Policy		UW	  	
+PSCI	225	Classics in Political Thought		ONLN	  	
+PSCI	231	Government & Business		UW	  	
+PSCI	255	Comparative Political Economy		UW	  	
+PSCI	264	American Government & Politics		BLND	  	
+PSCI	281	World Politics		BLND	  	
+PSCI	283	International Political Econ		UW	  	
+PSCI	315	Research Design		BLND	  	
+PSCI	324	Contemporary Political Theory		UW	  	
+PSCI	331	Public Administration		UW	  	
+PSCI	355	Russia and its Neighbours		UW	  	
+PSCI	359	Politics of South Asia		UW	  	
+PSCI	387	Globalization		UW	  	
+PSCI	391	Special Studies		ONLN	  	
+PSCI	400	Special Honours Essay		ONLN	  	
+PSCI	421	Justice & Gender		UW	  	
+PSCI	450	Kings, Generals & Tyrants		BLND	  	
+PSCI	452	Comparative Political Parties		UW	  	
+PSCI	462	Politics of Indigenous Peoples		UW	  	
+PSCI	487	International Relations Theory		UW	  	
+PSCI	488	Global Food & Agric Politics		UW	  	
+PSCI	490	Special Subjects	US Election	UW	  	
+PSCI	494	Current Issues		ONLN	  	
+PSCI	495	Research Apprenticeship		ONLN	  	
+PSCI	496	Civic Engagement		ONLN	  	
+PSCI	497	Study Abroad Experience		ONLN	  	
+PSCI	499A	Special Honours Essay		UW	  	
+ 
+PSYCH	101	Intro Psychology		UW	  	Spaces will be reserved for year one students in the Faculty of Arts, Arts, Science and Recreation department.
+PSYCH	101	Intro Psychology		STJ	  	Spaces will be reserved for year one students in the Faculty of Arts, Science and Recreation department.
+PSYCH	101	Intro Psychology		ONLN	  	
+PSYCH	101R	Intro Psychology		REN	  	Priority enrollment for Social Development Studies (SDS) Majors.
+PSYCH	207	Cognitive Processes		UW	  	
+PSYCH	207	Cognitive Processes		ONLN	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	211	Developmental Psychology		UW	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	211	Developmental Psychology		ONLN	  	
+PSYCH	212R	Educational Psychology		REN	  	
+PSYCH	218	Psychology of Death & Dying		STJ	  	Held with GERON 218, HLTH 218 Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	231	Psych of Religious Experience		STJ	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	236	Psych Analysis Human Sexuality		STJ	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	238	Organizational Psychology		UW	  	Priority enrolment for those in the Psychology Major and Psychology Minor as well those in the Human Resources Management (HRM) academic plans.
+PSYCH	253	Social Psychology		UW	  	Priority enrolment for those in the Psychology Major and Psychology Minor
+PSYCH	253	Social Psychology		STJ	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	253	Social Psychology		ONLN	  	Priority enrolment for those in the Psychology Major, Psychology Minor, as well as General Social Development studies students pursuing degrees by online studies only, and others pursing degrees by online studies only.
+PSYCH	256	Intro Cognitive Science		UW	  	PSYCH 256 is heldwith PHIL 256, and is offered by the Philosophy Department. Some spaces will be reserved for Psychology Majors and Psychology Minors.
+PSYCH	257	Psychopathology		ONLN	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	261	Physiological Psychology		UW	  	
+PSYCH	261	Physiological Psychology		ONLN	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	264	Research Apprenticeship		UW	  	Find a supervisor. https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/courses-requiring-application
+PSYCH	291	Basic Research Methods		UW	  	The department confirms the math requirement. for PSYCH 292. Students who have not successfully completed an Ontario 4U Math (e.g., Math of Data Management), Grade 12 Math from a province other than Ontario, an approved equivalent, or a University Algebra course will be required to take MATH 103 (Algebra), concurrently with PSYCH 291. Only current Psychology Majors and applicants to the Psychology Major will be permitted to enroll in PSYCH 291. Applicants, please see the following website for further details (e.g., application documents required): https://uwaterloo.ca/psychology/current-undergraduate-students/policies/psychology-department-policies
+PSYCH	306	Perception		UW	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	307	Human Neuropsychology		UW	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	320	Language Development		UW	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	334R	Theories: Indv Counselling		REN	  	
+PSYCH	335	Developmental Neuropsychology		UW	  	
+PSYCH	336	Intro Clinical Psychology		UW	  	
+PSYCH	339	Personnel Psychology		UW	  	Priority enrolment for those in the Psychology Major and Psychology Minor as well those in the Human Resources Management (HRM) academic plans.
+PSYCH	340	Training & Development		UW	  	Priority enrolment for those in the Psychology Major and Psychology Minor as well those in the Human Resources Management (HRM) academic plans.
+PSYCH	349R	Cross-Cultural Psychology		REN	  	
+PSYCH	350	Political Psychology		UW	  	
+PSYCH	354	Interpersonal Relations		STJ	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	356	Personality		UW	  	Priority enrolment for those in the Psychology Major and Psychology Minor.
+PSYCH	389	Topics: Soc Sci Adv Res Meth	Research in Development Psych	UW	  	
+PSYCH	389	Topics: Soc Sci Adv Res Meth	TBA	UW	  	
+PSYCH	389	Topics: Soc Sci Adv Res Meth	Res in Person & Clinical Psych	UW	  	
+PSYCH	389	Topics: Soc Sci Adv Res Meth	Research in Social Psychology	UW	  	
+PSYCH	391	Advanced Data Analysis		UW	  	Please enrol in only one of PSYCH 389 or 484 concurrently with PSYCH 391. See notes regarding priority enrolment: https://uwaterloo.ca/psychology/current-undergraduate-students/policies/psychology-department-policies/priority-enrolment-psych-391-and-advanced-research-methods
+PSYCH	398R	Independent Study		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+PSYCH	399R	Independent Study		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+PSYCH	420	Intro Comp Neurosci Methods		UW	  	
+PSYCH	453	Hons Sem: Developmental Psych		UW	  	Priority enrolment will be given to those in fourth year. See the expanded PSYCH 453 description: https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/psychology-course-content
+PSYCH	458	Hons Sem: Cognition	Psychology of Economic Decisio	UW	  	Priority enrolment will be given to those in fourth year. See the expanded PSYCH 458 description: https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/psychology-course-content
+PSYCH	461	Hons Sem: Cognitive Neurosci		UW	  	
+PSYCH	464	Adv Research Apprenticeship		UW	  	Find a supervisor. https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/courses-requiring-application
+PSYCH	470	Topics: Applied Psychology	Practices & Theories in HRM	UW	  	Priority enrolment will be given to Psych majors in fourth year. See the expanded PSYCH 470 description: https://uwaterloo.ca/psychology/current-undergraduate-students/psychology-courses/psychology-course-content/applied-topics-psychology-psych-470-descriptions
+PSYCH	470	Topics: Applied Psychology	Langg Devpt & Socl Inequality	UW	  	Priority enrolment will be given to Psych majors in fourth year. See the expanded PSYCH 470 description: https://uwaterloo.ca/psychology/current-undergraduate-students/psychology-courses/psychology-course-content/applied-topics-psychology-psych-470-descriptions
+PSYCH	480	Directed Studies		UW	  	Directed Studies. Find a supervisor. https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/courses-requiring-application
+PSYCH	481	Directed Stud: Nat Sci		UW	  	Directed Studies. Find a supervisor. https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/courses-requiring-application
+PSYCH	482	Directed Stud: Soc Sci		UW	  	Directed Studies. Find a supervisor. https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/courses-requiring-application
+PSYCH	483	Directed Stud: Nat Sci Res		UW	  	Directed Studies. Find a supervisor. https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/courses-requiring-application
+PSYCH	484	Directed Stud: Soc Sci Res		UW	  	Directed Studies. Find a supervisor. https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/courses-requiring-application
+PSYCH	485	Directed Studies: Seminar		UW	  	Directed Studies. Find a supervisor. https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/courses-requiring-application
+PSYCH	486	Directed Studies: Adv Stats		UW	  	Directed Studies. Find a supervisor. https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/courses-requiring-application
+PSYCH	490R	Special Studies		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+PSYCH	492	Psychological Measurement		UW	  	
+PSYCH	499A	Honours Thesis - Part 1		UW	  	You must submit a course application form for PSYCH 499A enrolment. Discuss with your potential thesis supervisor regarding whether or not you should enrol in PSYCH 499B concurrently with PSYCH 499A. See the following website for further details regarding PSYCH 499 enrolment and responsibilities: https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/honours-thesis-psych-499
+PSYCH	499B	Honours Thesis - Part 2		UW	  	See the following website for details regarding PSYCH 499B (and PSYCH 499C) enrolment and responsibilities. https://uwaterloo.ca/psychology/current-psychology-undergraduate-students/psychology-courses/honours-thesis-psych-499
+PSYCH	499C	Honours Thesis - Part 3		UW	  	See the following website for details regarding PSYCH 499B (and PSYCH 499C) enrolment and responsibilities. https://uwaterloo.ca/psychology/current-undergraduate-students/psychology-courses/honours-thesis-psych-499
+ 
+REC	100	Intro Rec & Leisure Studies		UW	  	
+REC	101	Intro Rec & Leisure Services		UW	  	
+REC	120	Program Management		BLND	  	
+REC	201	Leisure & Social Justice		UW	  	
+REC	202	History of Western Sport		UW	  	
+REC	213	Business of Pro Sport		UW	  	
+REC	219	Intro Event Studies		UW	  	
+REC	230	Outdoor Rec, Tourism & Nat Env		UW	  	
+REC	252	Physical Disabilities		UW	  	
+REC	253	Therapeutic Rec Practicum		UW	  	
+REC	312	Practicum: Rec/Sport/Tourism		UW	  	
+REC	313	Amateur Sport: Play to Podium		UW	  	
+REC	356	Leisure & Community		UW	  	
+REC	357	Therapeutic Rec: Theory & Evid		UW	  	
+REC	361	Aging & Leisure		UW	  	
+REC	371	Quantitative Leisure Research		UW	  	
+REC	405	Leisure & Well-being		UW	  	
+REC	450	Therapeutic Rec Internship		UW	  	
+REC	471A	Honours Thesis		UW	  	
+REC	471B	Honours Thesis		UW	  	
+REC	475	Directed Study	Business Management	UW	  	
+REC	475	Directed Study	Event Management	UW	  	
+REC	475	Directed Study	Sport Management	UW	  	
+REC	475	Directed Study	Leisure & Well-Being	UW	  	
+REC	475	Directed Study	Urban & Municipal Recreation	UW	  	
+REC	475	Directed Study	Tourism/Commercial Recreation	UW	  	
+REC	475	Directed Study	Parks & Outdoor Recreation	UW	  	
+REC	475	Directed Study	Human Development & TR	UW	  	
+REC	475	Directed Study	Cultural Policy/Leis Behaviour	UW	  	
+ 
+RS	100	Religions of Asia		ONLN	  	
+RS	101	Intro Ancient Greek 1		UW	  	held with GRK 101 held with GRK 602
+RS	110	Religions of the West		STP	  	
+RS	121	Evil		STJ	  	
+RS	123	Monsters in Japan Pop Culture		REN	  	Cross listed with EASIA 120R.
+RS	150	Christian Ethics		STJ	  	
+RS	204	Buddhism		REN	  	
+RS	216	Islam		UW	  	
+RS	223	Intermediate Greek		UW	  	Held with GRK 201
+RS	234	Bible: Power & Corruption		UW	  	Held with JS 234
+RS	235	Jesus: Life & Legacy		ONLNG	  	Held with JS 235
+RS	242R	Religion & Social Development		REN	  	Cross listed SDS 242R.
+RS	255	Roman Catholicism		STJ	  	
+RS	260	Religion Matters		ONLN	  	
+RS	270	Religion in Popular Film		ONLNR	  	Cross listed with FINE 252.
+RS	272	The Holocaust & Film		UW	  	Held with JS 233 Held with GER 283
+RS	283	Religion & Ethics		STJ	  	
+RS	285	Sacred Earth: Relig & Ecol		STJ	  	
+RS	310	Digital Spirituality		BLNDR	  	Cross listed with SI 310R.
+RS	343	Reformation History		CGC	  	Held with HIST 379 Held with TS 645
+RS	358	Worship & its Music		CGC	  	Held with CMW 364 Held with MUS 364 TS 653
+RS	398	Directed Readings	To be announced	CGC	  	
+RS	420R	Encounter with Human Nature		REN	  	Cross listed with SDS 420R.
+RS	499	Senior Seminar		STJ	  	
+ 
+RSCH	100	Research		UW	  	
+ 
+RUSS	101	Elementary Russian 1		UW	  	RUSS 101 is not open to students with native, near-native or similar advanced ability. Students who already have knowledge of the Russian language please contact the Germanic & Slavic Studies Undergraduate Office (gssugrad@uwaterloo.ca) for enrollment advice.
+ 
+SCBUS	123	Science & Business		UW	  	Science and Business students only.
+SCBUS	223	Strat Behind Tech Innovation		UW	  	Science and Business students only.
+SCBUS	323	Technology Development		UW	  	Science and Business students only.
+SCBUS	423	Strategic Management		UW	  	Science and Business students only.
+ 
+SCI	206	Physics of How Things Work		UW	  	
+SCI	230	Tech Innovation & Entrepreneur		OFF	  	
+SCI	238	Intro Astronomy		ONLN	  	
+SCI	266	Ancient Science		UW	  	held with PHIL 266
+SCI	267	Intro Philosophy of Science		UW	  	held with PHIL 258
+SCI	395	Science Study Abroad Program		OFF	  	
+ 
+SDS	131R	Political Ideologies & Soc Dev		REN	  	
+SDS	131R	Political Ideologies & Soc Dev		ONLNR	  	
+SDS	150R	Lifespan Processes		REN	  	
+SDS	150R	Lifespan Processes		ONLNR	  	
+SDS	210R	Children's Rights in Canada		ONLNR	  	Cross listed with LS 273.
+SDS	215R	Education: Global Perspectives		REN	  	
+SDS	240R	Art & Society		REN	  	
+SDS	242R	Religion & Social Development		REN	  	Cross listed with RS 242R.
+SDS	250R	Social Statistics		ONLNR	  	Priority enrollment for SDS majors. Held with SWREN 250R.
+SDS	251R	Social Research		REN	  	Priority enrollment for SDS majors. Held with SWREN 251R.
+SDS	251R	Social Research		ONLNR	  	
+SDS	310R	Disability & Society		REN	  	
+SDS	331R	Social Inequal/Justice/Action		REN	  	Held with SWREN 331R.
+SDS	345R	Identity Formation & Society		REN	  	
+SDS	354R	Values & Contemporary Families		REN	  	
+SDS	355R	Resilience & Social Support		REN	  	
+SDS	358R	Child Maltreat: Ident/Prevent		ONLNR	  	Cross-listed with SOCWK 355R.
+SDS	388R	Globalization & Soc Dev		REN	  	
+SDS	398R	Independent Study		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+SDS	399R	Independent Study		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+SDS	405R	Cosmopolitanism & Soc Dev		ONLNR	  	
+SDS	420R	Encounter with Human Nature		REN	  	
+SDS	421R	Indigenous-Settler Relations		REN	  	
+SDS	425R	Equity & Education		ONLNR	  	
+SDS	435R	Restorative Education		REN	  	
+SDS	440R	Optimal Living		REN	  	
+SDS	450R	Sr Seminar: Special Topics	Soc Ideas&Responses, Addiction	REN	  	
+SDS	451R	Community Based Research		REN	  	
+SDS	490R	Special Studies		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+SDS	495R	Research Apprenticeship		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+SDS	499A	Senior Honours Essay/Thesis		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+SDS	499B	Senior Honours Essay/Thesis		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+ 
+SE	101	Intro Methods		UW	  	
+SE	201	Seminar		UW	  	
+SE	212	Logic & Computation		UW	  	
+SE	302	Seminar		UW	  	
+SE	380	Intro Feedback Control		UW	  	
+SE	390	Design Project Planning		UW	  	
+SE	464	Software Dsgn & Architectures		UW	  	
+SE	490	Design Project 1		UW	  	
+SE	491	Design Project 2		UW	  	
+ 
+SFM	101	Intro Sust & Financial Mgmt		UW	  	
+ 
+SI	121R	Islam in the World		REN	  	
+SI	132R	Modern Arab & Muslim Drama		REN	  	Cross listed with ENGL 132R.
+SI	250R	Islam Civ: Late Antiquity-1300		REN	  	Cross listed with MEDVL 250R.
+SI	310R	Digital Spirituality		BLNDR	  	Cross listed with RS 310.
+ 
+SMF	101	Relationships & Families		STJ	  	
+SMF	204	Intro Human Sexuality		STJ	  	
+SMF	205	The Dark Side of Sexuality		STJ	  	
+SMF	208	Intro Systemic Therapies		STJ	  	
+SMF	220	Research Methods		STJ	  	
+SMF	250	Family Policy & Law		STJ	  	
+SMF	301	Comm & Counselling Skills		STJ	  	
+SMF	490	Practicum & Prof Ethics		STJ	  	
+SMF	496	Seminar: Family Studies	Femme Theory & Relationships	STJ	  	Topic: Intersecting Identities in Relationships
+ 
+SOC	101	Intro Sociology		UW	  	Spaces will be reserved for year one and level at least 2A students in the Faculty of Arts.
+SOC	101R	Intro Sociology		REN	  	Priority enrollment for Social Development Studies majors
+SOC	202	Classical Sociological Theory		UW	  	Required for Sociology majors
+SOC	204R	Sociology of Adolescence		REN	  	
+SOC	207R	Sociology of Education		ONLNR	  	
+SOC	221	Research Methods		UW	  	Required for Sociology majors. Held with LS 221.
+SOC	223R	Deviance: Perspect & Processes		REN	  	
+SOC	224R	Poverty CND & Soc Consequences		REN	  	Priority enrolment for Social Development Studies (SDS) Majors. Held with SWREN 224R
+SOC	227	Criminology		UW	  	Held with LS 227
+SOC	229	Topics: Criminology		STJ	  	Held with LS 229
+SOC	263	Organized Crime		UW	  	Held with LS 263
+SOC	280	Social Statistics		ONLN	  	Reserved and required for Sociology majors. ARBUS students who are not in Sociology should take ARTS 280. Held with LS 280.
+SOC	302	Contemporary Sociol Theory		UW	  	Required for Sociology majors
+SOC	322	Field Research Methods		ONLN	  	Required for Sociology majors. Held with LS 322.
+SOC	324	Digital Cultures		UW	  	
+SOC	325	Sexuality & Law		UW	  	Held with LS 325 and GSJ 326
+SOC	327	Policing in a Democratic Soc		STJ	  	Held with LS 327
+SOC	369J	The Sociology of Community		STJ	  	
+SOC	370	Sociology of Law		UW	  	Reserved for Sociology students. Held with LS 300.
+SOC	383	Ethnomethodology		STJ	  	
+SOC	398R	Independent Study		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+SOC	399R	Independent Study		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+SOC	406	Contemp Sociological Theory		UW	  	One of SOC 401, 404, 405, 406, 407, 408, 418 is required for Sociology majors. Reserved for level at least 4A Sociology majors only.
+SOC	413	Surveillance & Society		ONLN	  	Reserved for level at least 4A Sociology majors only. Held with LS 413.
+SOC	423	Peers & Crime		ONLN	  	Reserved for level at least 4A Sociology majors only. Held with LS 423.
+SOC	430	Special Topics	Technology and Society	UW	  	Reserved for level at least 4A Sociology students. Topic: Technology and Society. Please note: NOT held with LS.
+SOC	431	Science as Pract & Culture		ONLN	  	Reserved for level at least 4A Sociology students. Held with ANTH 430.
+SOC	436	Alcohol & Well-Being		STJ	  	
+SOC	490R	Special Studies		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+ 
+SOCWK	120R	Intro Social Work		REN	  	
+SOCWK	120R	Intro Social Work		ONLNR	  	Priority enrollment for Social Development Studies (SDS) majors. Held with SWREN 120R.
+SOCWK	220R	Individuals: Theory & Pract 1		REN	  	Held with SWREN 220R.
+SOCWK	221R	Social Group Work		ONLNR	  	Held with SWREN 221R.
+SOCWK	222R	Community Organization		ONLNR	  	Held with SWREN 222R.
+SOCWK	240R	Palliative Care		REN	  	
+SOCWK	300R	Canadian Social Welfare Policy		REN	  	Held with SWREN 300R.
+SOCWK	301R	Understand Diversity in Canada		REN	  	Held with SWREN 301R.
+SOCWK	321R	Social Work with Families		ONLNR	  	Held with SWREN 321R.
+SOCWK	398R	Independent Study		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+SOCWK	399R	Independent Study		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+SOCWK	490R	Special Studies		REN	  	Department consent and separate application required. Contact sds@uwaterloo.ca to inquire about application. For more information visit https://uwaterloo.ca/social-development-studies/current-students/courses/courses-requiring-applications
+ 
+SPAN	101	Intro Spanish 1		BLND	  	
+SPAN	101	Intro Spanish 1		ONLN	  	
+SPAN	102	Intro Spanish 2		BLND	  	
+SPAN	150	Welcome to Latin America		UW	  	
+SPAN	201A	Intermediate Spanish 1		UW	  	
+SPAN	290	Approaches to Translation		UW	  	
+SPAN	301A	Spanish in Context 1		BLND	  	
+SPAN	344	Topics: Hispanic Studies		BLND	  	
+ 
+SPCOM	100	Interpersonal Communication		UW	  	priority enrollment for first year SPCOM majors
+SPCOM	101	Theories of Communication		UW	  	introductory course for all interested students
+SPCOM	102	Intro Performance		UW	  	
+SPCOM	112	Intro Black Arts/Culture/Lit		UW	  	
+SPCOM	149	Intro Critical Design Practice		UW	  	
+SPCOM	191	Eng Comm (AE/CIVE/ENVE/GEOE)		UW	  	
+SPCOM	201	Intro Gender & Sexuality Comm		UW	  	
+SPCOM	204	Leadership, Teams & Comm		UW	  	all space reserved for ARBUS students
+SPCOM	210	Key Concepts Media & Culture		UW	  	
+SPCOM	220	Performance Studies		UW	  	
+SPCOM	223	Public Speaking		UW	  	
+SPCOM	225	Interviewing		UW	  	
+SPCOM	226	Intro Race, Culture & Comm		UW	  	
+SPCOM	228	Public Communication		UW	  	
+SPCOM	325	Organizational Communication		UW	  	
+SPCOM	335	Power, Agency, Community		UW	  	
+SPCOM	399	Communication Inquiry		UW	  	
+SPCOM	402	Adv Race, Culture & Comm		UW	  	
+SPCOM	420	Persuasion		UW	  	
+SPCOM	432	Conflict Management		UW	  	
+SPCOM	440	Performative Inquiry		UW	  	
+SPCOM	490	Selected Seminars		UW	  	
+ 
+STAT	202	Intro Stats (Sci)		UW	  	
+STAT	206	Statistics (Software Eng)		UW	  	
+STAT	220	Probability (Non-Spec)		UW	  	
+STAT	221	Statistics (Non-Spec)		UW	  	
+STAT	230	Probability		UW	  	
+STAT	230	Probability		ONLN	  	
+STAT	231	Statistics		UW	  	
+STAT	231	Statistics		ONLN	  	
+STAT	240	Probability (Adv)		UW	  	
+STAT	322	Sample & Exper Dsgn (Non-Spec)		UW	  	
+STAT	330	Mathematical Statistics		UW	  	
+STAT	331	Applied Linear Models		UW	  	
+STAT	332	Sampling & Experimental Design		UW	  	
+STAT	333	Stochastic Processes 1		UW	  	
+STAT	334	Prob Models (Bus & Acct)		BLND	  	
+STAT	337	Intro Biostatistics		UW	  	
+STAT	341	Computational Stats & Analysis		UW	  	
+STAT	371	Lin Models & Process Improve		UW	  	
+STAT	372	Sample & Exp Dsgn (Bus)		UW	  	
+STAT	373	Fin: Regress & Forecast Meth		UW	  	
+STAT	430	Experimental Design		UW	  	Held with STAT 830
+STAT	431	Gen Linear Models & Applic		UW	  	Held with STAT 831
+STAT	433	Stochastic Processes 2		UW	  	Held with STAT 833
+STAT	441	Stat Learning: Classification		UW	  	Cross-listed with CM 763 Held with STAT 841
+STAT	442	Data Visualization		UW	  	Cross-listed with CM 762 Held with STAT 842
+STAT	443	Forecasting		UW	  	
+ 
+STV	100	Intro Society, Tech & Values		UW	  	
+STV	202	Design & Society		UW	  	
+STV	306	Biotechnology & Society		UW	  	
+STV	400	Senior Project		UW	  	
+ 
+SYDE	101	Communications: Written & Oral		UW	  	
+SYDE	101L	Communications: Visualization		UW	  	
+SYDE	111	Calculus 1		UW	  	
+SYDE	113	Elementary Engineering Math		UW	  	
+SYDE	121	Digital Computation		UW	  	
+SYDE	161	Intro Design		UW	  	
+SYDE	181	Physics 1: Statics		UW	  	
+SYDE	182	Physics 2: Dynamics		UW	  	For MTE.
+SYDE	202	Seminar		UW	  	
+SYDE	211	Calculus 3		UW	  	
+SYDE	212	Probability & Statistics		UW	  	
+SYDE	252	Linear Systems & Signals		UW	  	
+SYDE	262	Eng Economics of Design		UW	  	
+SYDE	286	Mechanics of Deformable Solids		UW	  	
+SYDE	292	Circuits/Instrument/Measure		UW	  	
+SYDE	292L	Circuit/Instrument/Measure Lab		UW	  	
+SYDE	401	Seminar		UW	  	
+SYDE	411	Optimization & Num Methods		UW	  	
+SYDE	461	Capstone Project 1		UW	  	
+SYDE	533	Conflict Resolution		UW	  	
+SYDE	542	Interface Design		UW	  	
+SYDE	543	Cognitive Ergonomics		UW	  	
+SYDE	553	Advanced Dynamics		UW	  	
+SYDE	556	Simulating Neurobiological Sys		UW	  	
+SYDE	572	Intro Pattern Recognition		UW	  	
+SYDE	575	Image Processing		UW	  	
+SYDE	584	Physiol Sys & Biomed Dsgn		UW	  	
+SYDE	599	Special Topics	Transportation Modelling	UW	  	
+SYDE	599	Special Topics	Acoustics	UW	  	
+SYDE	599	Special Topics	Deep Learning	UW	  	
+ 
+THPERF	102	Intro Performance		UW	  	
+THPERF	112	Intro Black Arts/Culture/Lit		UW	  	
+THPERF	149	Intro Critical Design Practice		UW	  	
+THPERF	200	Theatre & Perf in Context		UW	  	
+THPERF	220	Performance Studies		UW	  	
+THPERF	243	Technical Production 1		UW	  	
+THPERF	301	Performance Creation		UW	  	
+THPERF	321	Approaches to Acting: Text		UW	  	
+THPERF	343	Stage Management		UW	  	
+THPERF	378	Race & Performance		UW	  	
+THPERF	387	Shakespeare 2		UW	  	
+THPERF	440	Performative Inquiry		UW	  	
+ 
+UNIV	101	Strategies for Acad Success		UW	  	Department consent required. For more information on this course visit: https://uwaterloo.ca/student-success/academic-development/foundation-term/univ-101
+ 
+VCULT	100	World Cinema & Visual Culture		UW	  	Cross-listed with FINE 102
+VCULT	112	Intro Black Arts/Culture/Lit		UW	  	
+VCULT	300	Visual Culture in Theory		UW	  	
+VCULT	400	Visual Culture Seminar		UW	  	
+ 
+WKRPT	100	Work-term Report		UW	  	
+WKRPT	200	Work-term Report		UW	  	
+WKRPT	200	Work-term Report		ONLN	  	
+WKRPT	201	Work-term Report		UW	  	
+WKRPT	300	Work-term Report		UW	  	
+WKRPT	300	Work-term Report		ONLN	  	
+WKRPT	301	Work-term Report		UW	  	
+WKRPT	400	Work-term Report		UW	  	
+WKRPT	400	Work-term Report		ONLN	  	
+WKRPT	401	Work-term Report		UW
