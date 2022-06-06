@@ -44,8 +44,9 @@ def main() -> None:
         return
     
     grades = transcript.get_grades(courses, lower, upper)
-    print(np.mean(list(grades.values())))
+    print(f"{np.mean(list(grades.values())):.2f}")
 
 
 if __name__ == '__main__':
     main()
+ 
