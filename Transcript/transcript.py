@@ -47,7 +47,7 @@ class Transcript:
                 txt += page.extract_text()
             self.text = txt
 
-    def get_grades(self, courses: list[str], lower: int, upper: int) -> dict:
+    def get_grades(self, courses, lower, upper) -> dict:
         """
         Get grades from transcript text.
 
@@ -60,7 +60,7 @@ class Transcript:
             grades: dictionary of grades with the course subject as key and the grades received as a value
         """
         rows = self.text.lower().split('\n')
-
+        
         with open(PATH_TO_COURSE_SUBJECTS) as f:
             all_course_subjects = f.read().splitlines()
         
@@ -69,7 +69,8 @@ class Transcript:
 
         grades = {}
         for course_subject in courses:
-            course_regex = re.compile(r'^' + course_subject + r'(.*)[0-9]{2}$')
+            # course regex matches course subject and at least one space after the course subject
+            course_regex = re.compile(r'^' + course_subject + r'\s(.*)[0-9]{2}$')
             rows_filtered = list(filter(lambda x: course_regex.match(x.lower()), rows))
             # rows filtered only has a non-empty list if the course exists on the transcript.
             if rows_filtered:

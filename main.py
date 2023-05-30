@@ -41,7 +41,7 @@ def main() -> None:
             upper = input("> ")
             if not upper:
                 # Arbitrary large number, not 499 in case grad classes :)
-                upper = 10000
+                upper = 900
             elif upper.lower() == "q":
                 return
             else:
@@ -51,9 +51,9 @@ def main() -> None:
             return
         
         grades = transcript.get_grades(courses, lower, upper)
-        print(f"{np.mean(list(grades.values())):.2f}")
-
-
+        average_grade = np.mean(np.concatenate(list(grades.values())))
+        print(f"Average Grade for classes with lower bound {lower} and upper bound {upper}: {average_grade:2.2f}")
+        
 if __name__ == '__main__':
     main()
  

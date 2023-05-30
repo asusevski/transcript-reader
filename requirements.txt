@@ -1,14 +1,2 @@
-certifi==2022.5.18.1
-cffi==1.15.0
-charset-normalizer==2.0.12
-cryptography==37.0.2
-mkl-fft==1.3.1
-mkl-random @ file:///home/builder/ci_310/mkl_random_1641843545607/work
-mkl-service==2.4.0
-numpy @ file:///opt/conda/conda-bld/numpy_and_numpy_base_1652801679809/work
-pdfminer.six==20220524
-pdfplumber==0.7.1
-Pillow==9.1.1
-pycparser==2.21
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-Wand==0.6.7
+pdfplumber
+numpy
